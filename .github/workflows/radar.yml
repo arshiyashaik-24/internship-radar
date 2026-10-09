@@ -1,0 +1,95 @@
+# Daily refresh: collect listings, save them in data/, and publish the dashboard.
+# Runs every day on GitHub's servers. Press "Run workflow" on the Actions tab to refresh now.
+name: Radar
+
+on:
+  schedule:
+    - cron: '17 4 * * *' # every day at 04:17 UTC (06:17 in the Netherlands in summer, 05:17 in winter)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Refresh only these source ids, comma separated (leave empty for all)'
+        required: false
+        default: ''
+  push:
+    branches: [main]
+    paths: ['site/**', 'config/**', 'scripts/build-site.js']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check the code still works
+        run: npm test
+
+      - name: Collect listings from all sources
+        id: ingest
+        continue-on-error: true
+        env:
+          ONLY: ${{ inputs.only }}
+        run: node scripts/ingest.js ${ONLY:+--only="$ONLY"}
+
+      - name: Save the new data to the repository
+        run: |
+          git config user.name "internship-radar[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Radar refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      - name: Flag the run if every source failed
+        if: steps.ingest.outcome == 'failure'
+        run: |
+          echo "::error::Every automatic source failed this run. Open the dashboard's 'Sources and health' page for details."
+          exit 1
+
+  publish:
+    needs: refresh
+    if: ${{ always() && needs.refresh.result != 'cancelled' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build the dashboard
+        run: node scripts/build-site.js
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publish to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
