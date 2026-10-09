@@ -1,0 +1,938 @@
+{
+ "events": [
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4940448101",
+   "sourceId": "gh-imc",
+   "to": "2027 EU Campus Programme Talent Community",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4940448101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4981180101",
+   "sourceId": "gh-imc",
+   "to": "2027 EU Chess Academy - Expression of Interest",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4981180101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4974924101",
+   "sourceId": "gh-imc",
+   "to": "2027 US Chess Academy Interest Form",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4974924101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4912874101",
+   "sourceId": "gh-imc",
+   "to": "Deep Learning Research Intern - Summer 2027 - Amsterdam",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4907430101",
+   "sourceId": "gh-imc",
+   "to": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4927149101",
+   "sourceId": "gh-imc",
+   "to": "Hardware Engineer Intern",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4823945101",
+   "sourceId": "gh-imc",
+   "to": "Hardware Engineer Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4975945101",
+   "sourceId": "gh-imc",
+   "to": "Hardware Machine Learning PhD Research Internship",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4962456101",
+   "sourceId": "gh-imc",
+   "to": "Machine Learning Engineer Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4956547101",
+   "sourceId": "gh-imc",
+   "to": "Machine Learning Research Intern - Summer 2027 - Sydney",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4941380101",
+   "sourceId": "gh-imc",
+   "to": "Macro Analyst Intern",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4880741101",
+   "sourceId": "gh-imc",
+   "to": "Prosperity 2026 - Role Interest Form",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4880741101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4941208101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Research Intern 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4941208101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4907399101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Research Intern (BS/MS) - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4907400101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Research Intern (PhD) - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4936262101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Trader Intern",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4941205101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Trader Intern 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4941205101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4823923101",
+   "sourceId": "gh-imc",
+   "to": "Quantitative Trader Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4842595101",
+   "sourceId": "gh-imc",
+   "to": "Quant Performance Engineer Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4667854101",
+   "sourceId": "gh-imc",
+   "to": "Software Engineer Intern",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4941206101",
+   "sourceId": "gh-imc",
+   "to": "Software Engineer Intern 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4941206101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4823924101",
+   "sourceId": "gh-imc",
+   "to": "Software Engineer Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4753890101",
+   "sourceId": "gh-imc",
+   "to": "Trader Assistant (Working Student)",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4753890101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4939846101",
+   "sourceId": "gh-imc",
+   "to": "Trader Intern",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4817125101",
+   "sourceId": "gh-imc",
+   "to": "US PhD Talent Community",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4817125101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-imc:4685421101",
+   "sourceId": "gh-imc",
+   "to": "Working Student - Tech",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4685421101"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8644364002",
+   "sourceId": "gh-optiver",
+   "to": "2027 Shanghai FPGA Developer Summer Internship",
+   "evidence": "https://www.optiver.com/join-us/jobs/8644364002/?gh_jid=8644364002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8633966002",
+   "sourceId": "gh-optiver",
+   "to": "2027 Shanghai Machine Learning Engineer Summer Internship",
+   "evidence": "https://www.optiver.com/join-us/jobs/8633966002/?gh_jid=8633966002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8732789002",
+   "sourceId": "gh-optiver",
+   "to": "2027 Shanghai Performance Researcher Summer Internship",
+   "evidence": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8623927002",
+   "sourceId": "gh-optiver",
+   "to": "2027 Shanghai Software Developer Summer Internship",
+   "evidence": "https://www.optiver.com/join-us/jobs/8623927002/?gh_jid=8623927002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8641352002",
+   "sourceId": "gh-optiver",
+   "to": "FPGA Engineer Intern (Summer 2027 - Austin)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8402114002",
+   "sourceId": "gh-optiver",
+   "to": "FPGA Engineer Intern (Summer 2027 - Chicago)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8713775002",
+   "sourceId": "gh-optiver",
+   "to": "FPGA Internship (2027 Start)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8713775002/?gh_jid=8713775002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8699349002",
+   "sourceId": "gh-optiver",
+   "to": "Market Risk Internship 2027 - Singapore",
+   "evidence": "https://www.optiver.com/join-us/jobs/8699349002/?gh_jid=8699349002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8451782002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Research Intern, PhD (Summer 2027)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8451781002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Research Intern, PhD (Summer 2027)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8488699002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Research Internship (2027 Start)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8644376002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8644376002/?gh_jid=8644376002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8488701002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Trading Internship (2027 Start)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8642260002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Trading Internship (Singapore) - 2027",
+   "evidence": "https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8623923002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Trading Internship (Summer 2027 - Shanghai)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8011956002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Trading Internship (Taiwan) - 2027",
+   "evidence": "https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8713409002",
+   "sourceId": "gh-optiver",
+   "to": "Software Engineer Internship (2027 Start)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8713435002",
+   "sourceId": "gh-optiver",
+   "to": "Software Engineer Internship (2027 Start)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8401052002",
+   "sourceId": "gh-optiver",
+   "to": "Software Engineer Intern (Summer 2027 - Austin)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8604760002",
+   "sourceId": "gh-optiver",
+   "to": "Software Engineer Intern (Summer 2027 - Chicago)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-optiver:8489582002",
+   "sourceId": "gh-optiver",
+   "to": "Trading Automation and Operations Intern (Summer 2027)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-flowtraders:8258760",
+   "sourceId": "gh-flowtraders",
+   "to": "HR Work Student",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8258760"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-flowtraders:8102618",
+   "sourceId": "gh-flowtraders",
+   "to": "Trading Intern",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:7011263002",
+   "sourceId": "gh-databricks",
+   "to": "PhD GenAI Research Scientist Intern",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8133715002",
+   "sourceId": "gh-databricks",
+   "to": "Product Management Intern (2026) - Amsterdam",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8863328002",
+   "sourceId": "gh-databricks",
+   "to": "Product Management Intern (2026) - Belgrade",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8145776002",
+   "sourceId": "gh-databricks",
+   "to": "Product Management Intern (2026) - Berlin",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:6883068002",
+   "sourceId": "gh-databricks",
+   "to": "Product Management Intern (Summer 2027)",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8133710002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - Aarhus",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:6866534002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - Amsterdam",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:7640764002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - Belgrade",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:6866531002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - Berlin",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8847738002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - London",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "gh-databricks:8732364002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027 Start) - Winter",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:672bb667-0569-44bc-a2fa-a0fcd85673fb",
+   "sourceId": "lever-quantinuum",
+   "to": "Electrical Engineering Intern - 997",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:c8718a2b-2b14-486d-94aa-99b6f1049a8b",
+   "sourceId": "lever-quantinuum",
+   "to": "HR OPS Intern - 987",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/c8718a2b-2b14-486d-94aa-99b6f1049a8b"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "sourceId": "lever-quantinuum",
+   "to": "Internship at Quantinuum’s UK QEC team",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:dc2f6f9e-b409-4640-807d-0339a12dc3cd",
+   "sourceId": "lever-quantinuum",
+   "to": "Internship Opportunities with Quantinuum 2026 - UK/Germany",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:aa305a45-955d-42df-9e11-a4babb28041b",
+   "sourceId": "lever-quantinuum",
+   "to": "IT Applications Intern - 984",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
+   "sourceId": "lever-quantinuum",
+   "to": "Manufacturing Engineering Intern - 998",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/acec8ce5-b42e-4b16-8dc2-6ae715bfda80"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:5e7f7fba-41e1-454c-8985-30f7558095a2",
+   "sourceId": "lever-quantinuum",
+   "to": "Mechanical Engineering Intern - 1047",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/5e7f7fba-41e1-454c-8985-30f7558095a2"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:d36cdf8b-3100-4e0f-9b8b-2177a62cd822",
+   "sourceId": "lever-quantinuum",
+   "to": "Mechanical Engineering Intern for Photonics Physics Package R&D - 996",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/d36cdf8b-3100-4e0f-9b8b-2177a62cd822"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:ca00d719-ecda-4245-9c41-0da221dc2bb5",
+   "sourceId": "lever-quantinuum",
+   "to": "Metasurface Optical Design Intern - 994",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/ca00d719-ecda-4245-9c41-0da221dc2bb5"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:dc2d5427-8263-400f-9ca7-501d2e17162f",
+   "sourceId": "lever-quantinuum",
+   "to": "Metasurface Resonant Photonic Design Intern - 988",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/dc2d5427-8263-400f-9ca7-501d2e17162f"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:6b28b2e2-482a-40ef-9eb7-886dc4a749ef",
+   "sourceId": "lever-quantinuum",
+   "to": "Optics R&D Technician Intern - 1019",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/6b28b2e2-482a-40ef-9eb7-886dc4a749ef"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107",
+   "sourceId": "lever-quantinuum",
+   "to": "PIC Design Intern - 995",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:0540d133-27ae-427e-ab4e-1f56a7bcd884",
+   "sourceId": "lever-quantinuum",
+   "to": "R&D PhD Intern - 1025",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/0540d133-27ae-427e-ab4e-1f56a7bcd884"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:84cd4e05-408c-4410-8ac5-176ef8be93d9",
+   "sourceId": "lever-quantinuum",
+   "to": "Support Services Intern - 986",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/84cd4e05-408c-4410-8ac5-176ef8be93d9"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552",
+   "sourceId": "lever-quantinuum",
+   "to": "Systems Engineering Intern - 1048",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "lever-quantinuum:8617abb8-6427-4320-9a59-9d78ee57358a",
+   "sourceId": "lever-quantinuum",
+   "to": "U.S. HR Intern - 985",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/8617abb8-6427-4320-9a59-9d78ee57358a"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10067150",
+   "sourceId": "wd-nxp",
+   "to": "NVM Reliability Intern",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/NVM-Reliability-Intern_R-10067150"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10062297",
+   "sourceId": "wd-nxp",
+   "to": "Intern for Cross Manufacturing Stage Quality Control",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Intern-for-Cross-Manufacturing-Stage-Quality-Control_R-10062297"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10062364",
+   "sourceId": "wd-nxp",
+   "to": "Internship - Robotics",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10060562",
+   "sourceId": "wd-nxp",
+   "to": "PhD Internship",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/PhD-Internship_R-10060562"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10066663",
+   "sourceId": "wd-nxp",
+   "to": "Internship People Operations Automation",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-People-Operations-Automation_R-10066663"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10064264",
+   "sourceId": "wd-nxp",
+   "to": "Internship – Product Engineering (ML Model Development)",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Product-Engineering--ML-Model-Development-_R-10064264-1"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10065970",
+   "sourceId": "wd-nxp",
+   "to": "Internship - Reliability of Advanced Semiconductor Packages",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Understanding-the-reliability-of-advanced-laminate-based-electronic-packages-at-NXP_R-10065970"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10064265",
+   "sourceId": "wd-nxp",
+   "to": "Internship – Product Engineering (Data Science: Machine Learning Analyst)",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Product-Engineering--Data-Science--Machine-Learning-Analyst-_R-10064265-1"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10064089",
+   "sourceId": "wd-nxp",
+   "to": "Internship: Phase-Noise-Resilient Architectures for Large MIMO FMCW Automotive Radars",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship--Phase-Noise-Resilient-Architectures-for-Large-MIMO-FMCW-Automotive-Radars_R-10064089"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10064090",
+   "sourceId": "wd-nxp",
+   "to": "Internship/Thesis – Signal Processing and AI for autonomous driving",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-Thesis---Signal-Processing-and-AI-for-autonomous-driving-_R-10064090"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-nxp:R-10067003",
+   "sourceId": "wd-nxp",
+   "to": "Master Thesis Internship – Intelligent Thread across Semiconductor Product Lifecycle",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---Intelligent-Thread-across-Semiconductor-Product-Lifecycle_R-10067003-1"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:592635",
+   "sourceId": "wd-philips",
+   "to": "Intern",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Intern_592635"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:581630",
+   "sourceId": "wd-philips",
+   "to": "Intern AI Application Developer",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Intern-Consultancy-data-modelling_581630"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:591964",
+   "sourceId": "wd-philips",
+   "to": "Intern Service Enablement Team",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Intern-Service-Enablement-Team_591964"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:591173",
+   "sourceId": "wd-philips",
+   "to": "Internship Sustainability and Compliance Intern (non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship-Sustainability-and-Compliance-Intern--non-thesis-_591173"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:593151",
+   "sourceId": "wd-philips",
+   "to": "Internship: Enterprise Strategy",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enterprise-Strategy_593151"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:564816",
+   "sourceId": "wd-philips",
+   "to": "Internship: Philips Communications & Brand",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Communication---Philips_564816"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:570478",
+   "sourceId": "wd-philips",
+   "to": "Internship: Marketing & Marketing Communication",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Marketing---Marketing-Communication_570478"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:591593",
+   "sourceId": "wd-philips",
+   "to": "Internship: Generative AI Engineer",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:588137",
+   "sourceId": "wd-philips",
+   "to": "Internship: Change Management (Master, non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Change-Management--non-thesis-_588137"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:587803",
+   "sourceId": "wd-philips",
+   "to": "Internship: Commercial Strategy & Sales (Dutch speaking)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Commercial-Strategy---Sales--Dutch-speaking-_587803"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:592536",
+   "sourceId": "wd-philips",
+   "to": "Internship: Validation of Hair-Cutting Models",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Internship--Validation-of-Hair-Cutting-Models_592536"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:586188",
+   "sourceId": "wd-philips",
+   "to": "Product Design Internship – Philips Avent Experience Innovation",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Product-Design-Internship---Philips-Avent-Experience-Innovation_586188"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:591183",
+   "sourceId": "wd-philips",
+   "to": "Internship: Enabling Execution of 2030 Impact Ambitions",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:592556",
+   "sourceId": "wd-philips",
+   "to": "Internship: Full Stack Developer in Finance Domain",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:583463",
+   "sourceId": "wd-philips",
+   "to": "Internship: Finance & Accounting - Group Consolidation & Reporting (non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance---Accounting---Group-Consolidation---Reporting--GC-R-_583463"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:586189",
+   "sourceId": "wd-philips",
+   "to": "Data, AI & Algorithm Internship – Philips Avent Experience Innovation",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data--AI---Algorithm-Internship---Philips-Avent-Experience-Innovation_586189"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:586187",
+   "sourceId": "wd-philips",
+   "to": "Product Innovation & AI Prototyping Internship – Philips Avent Experience Innovation",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:591667",
+   "sourceId": "wd-philips",
+   "to": "Internship: Global Service Operations Program within Service Enablement Team",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Global-Service-Operations-Program-within-Service-Enablement-Team_591667"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:590652",
+   "sourceId": "wd-philips",
+   "to": "Internship - AI-Powered Digital Daily Management for Quality Operations",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship---AI-Powered-Digital-Daily-Management-for-Quality-Operations_590652"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:592362",
+   "sourceId": "wd-philips",
+   "to": "Internship: Transformation Programs in Personal Health ISC (Master, non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Transformation-Programs-in-Personal-Health-ISC--Master--non-thesis-_592362"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-philips:592189",
+   "sourceId": "wd-philips",
+   "to": "Internship: Global Health Economics, Market Access & Reimbursement (HEMAR) for Hospital Patient Monitoring (HPM)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Global-Health-Economics--Market-Access---Reimbursement--HEMAR--for-Hospital-Patient-Monitoring--HPM-_592189"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01366282",
+   "sourceId": "wd-thermofisher",
+   "to": "Internship: AI/ML Applications for Materials Science and Electron Microscopy",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01366284",
+   "sourceId": "wd-thermofisher",
+   "to": "Thermal Engineer Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Mechatronics-Intern-Engineer_R-01366284"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01366285",
+   "sourceId": "wd-thermofisher",
+   "to": "Mechanical Engineering Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Mechanical-Engineering-Intern_R-01366285"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01366281",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern - Integrating GenAI into TEM Life-Science Applications",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern---Integrating-GenAI-into-TEM-Life-Science-Applications-_R-01366281"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01366276",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern Software Scientist - X-ray Spectroscopy",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Software-Scientist---X-ray-Spectroscopy_R-01366276"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "page-tno:0432e5f5",
+   "sourceId": "page-tno",
+   "to": "Internship | Oxygen Activation in Second-Generation Solvents via Dissolved Oxygen",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-oxygen-activation-second/"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "page-tno:d33c2a8b",
+   "sourceId": "page-tno",
+   "to": "Internship | Modelling of photo-driven green syngas formation",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-modelling-photo-driven-green/"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "new",
+   "id": "page-tno:dd514944",
+   "sourceId": "page-tno",
+   "to": "Intern",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/"
+  },
+  {
+   "at": "2026-10-09T10:35:54.930Z",
+   "type": "source_failed",
+   "sourceId": "page-cpp",
+   "reason": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+  }
+ ]
+}

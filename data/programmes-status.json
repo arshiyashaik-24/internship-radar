@@ -1,0 +1,517 @@
+{
+ "imc-amsterdam": {
+  "status": "OPEN NOW",
+  "reason": "8 matching listings are live on the official board.",
+  "matchingIds": [
+   "gh-imc:4667854101",
+   "gh-imc:4907430101",
+   "gh-imc:4912874101",
+   "gh-imc:4927149101",
+   "gh-imc:4936262101",
+   "gh-imc:4939846101",
+   "gh-imc:4941380101",
+   "gh-imc:4956547101"
+  ],
+  "openIds": [
+   "gh-imc:4667854101",
+   "gh-imc:4907430101",
+   "gh-imc:4912874101",
+   "gh-imc:4927149101",
+   "gh-imc:4936262101",
+   "gh-imc:4939846101",
+   "gh-imc:4941380101",
+   "gh-imc:4956547101"
+  ],
+  "observedOpenings": {
+   "2027": {
+    "openedOn": "2026-05-07",
+    "precision": "published",
+    "opportunityId": "gh-imc:4667854101",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2027,
+    "openedOn": "2026-05-07",
+    "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "imc-eu-campus": {
+  "status": "OPEN NOW",
+  "reason": "2 matching listings are live on the official board.",
+  "matchingIds": [
+   "gh-imc:4940448101",
+   "gh-imc:4981180101"
+  ],
+  "openIds": [
+   "gh-imc:4940448101",
+   "gh-imc:4981180101"
+  ],
+  "observedOpenings": {
+   "2027": {
+    "openedOn": "2026-07-29",
+    "precision": "published",
+    "opportunityId": "gh-imc:4940448101",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4940448101"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2027,
+    "openedOn": "2026-07-29",
+    "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4940448101",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "optiver-amsterdam": {
+  "status": "OPEN NOW",
+  "reason": "5 matching listings are live on the official board.",
+  "matchingIds": [
+   "gh-optiver:8488699002",
+   "gh-optiver:8488701002",
+   "gh-optiver:8713409002",
+   "gh-optiver:8713435002",
+   "gh-optiver:8713775002"
+  ],
+  "openIds": [
+   "gh-optiver:8488699002",
+   "gh-optiver:8488701002",
+   "gh-optiver:8713409002",
+   "gh-optiver:8713435002",
+   "gh-optiver:8713775002"
+  ],
+  "observedOpenings": {
+   "2027": {
+    "openedOn": "2026-08-17",
+    "precision": "published",
+    "opportunityId": "gh-optiver:8488699002",
+    "url": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2027,
+    "openedOn": "2026-08-17",
+    "sourceUrl": "https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "flow-amsterdam": {
+  "status": "NOT YET ANNOUNCED",
+  "reason": "No matching listing on the monitored board as of 2026-10-09. No earlier cycles recorded yet.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "adyen-interns": {
+  "status": "NOT YET ANNOUNCED",
+  "reason": "No matching listing on the monitored board as of 2026-10-09. No earlier cycles recorded yet.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "nxp-nl": {
+  "status": "OPEN NOW",
+  "reason": "11 matching listings are live on the official board.",
+  "matchingIds": [
+   "wd-nxp:R-10060562",
+   "wd-nxp:R-10062297",
+   "wd-nxp:R-10062364",
+   "wd-nxp:R-10064089",
+   "wd-nxp:R-10064090",
+   "wd-nxp:R-10064264",
+   "wd-nxp:R-10064265",
+   "wd-nxp:R-10065970",
+   "wd-nxp:R-10066663",
+   "wd-nxp:R-10067003",
+   "wd-nxp:R-10067150"
+  ],
+  "openIds": [
+   "wd-nxp:R-10060562",
+   "wd-nxp:R-10062297",
+   "wd-nxp:R-10062364",
+   "wd-nxp:R-10064089",
+   "wd-nxp:R-10064090",
+   "wd-nxp:R-10064264",
+   "wd-nxp:R-10064265",
+   "wd-nxp:R-10065970",
+   "wd-nxp:R-10066663",
+   "wd-nxp:R-10067003",
+   "wd-nxp:R-10067150"
+  ],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "philips-nl": {
+  "status": "OPEN NOW",
+  "reason": "21 matching listings are live on the official board.",
+  "matchingIds": [
+   "wd-philips:564816",
+   "wd-philips:570478",
+   "wd-philips:581630",
+   "wd-philips:583463",
+   "wd-philips:586187",
+   "wd-philips:586188",
+   "wd-philips:586189",
+   "wd-philips:587803",
+   "wd-philips:588137",
+   "wd-philips:590652",
+   "wd-philips:591173",
+   "wd-philips:591183",
+   "wd-philips:591593",
+   "wd-philips:591667",
+   "wd-philips:591964",
+   "wd-philips:592189",
+   "wd-philips:592362",
+   "wd-philips:592536",
+   "wd-philips:592556",
+   "wd-philips:592635",
+   "wd-philips:593151"
+  ],
+  "openIds": [
+   "wd-philips:564816",
+   "wd-philips:570478",
+   "wd-philips:581630",
+   "wd-philips:583463",
+   "wd-philips:586187",
+   "wd-philips:586188",
+   "wd-philips:586189",
+   "wd-philips:587803",
+   "wd-philips:588137",
+   "wd-philips:590652",
+   "wd-philips:591173",
+   "wd-philips:591183",
+   "wd-philips:591593",
+   "wd-philips:591667",
+   "wd-philips:591964",
+   "wd-philips:592189",
+   "wd-philips:592362",
+   "wd-philips:592536",
+   "wd-philips:592556",
+   "wd-philips:592635",
+   "wd-philips:593151"
+  ],
+  "observedOpenings": {
+   "2026": {
+    "openedOn": "2026-09-28",
+    "precision": "published",
+    "opportunityId": "wd-philips:591667",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Global-Service-Operations-Program-within-Service-Enablement-Team_591667"
+   },
+   "2027": {
+    "openedOn": "2026-10-01",
+    "precision": "published",
+    "opportunityId": "wd-philips:593151",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enterprise-Strategy_593151"
+   },
+   "2030": {
+    "openedOn": "2026-10-07",
+    "precision": "published",
+    "opportunityId": "wd-philips:591183",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2026,
+    "openedOn": "2026-09-28",
+    "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Global-Service-Operations-Program-within-Service-Enablement-Team_591667",
+    "precision": "day",
+    "from": "observed"
+   },
+   {
+    "cycle": 2027,
+    "openedOn": "2026-10-01",
+    "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enterprise-Strategy_593151",
+    "precision": "day",
+    "from": "observed"
+   },
+   {
+    "cycle": 2030,
+    "openedOn": "2026-10-07",
+    "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "thermo-eindhoven": {
+  "status": "OPEN NOW",
+  "reason": "5 matching listings are live on the official board.",
+  "matchingIds": [
+   "wd-thermofisher:R-01366276",
+   "wd-thermofisher:R-01366281",
+   "wd-thermofisher:R-01366282",
+   "wd-thermofisher:R-01366284",
+   "wd-thermofisher:R-01366285"
+  ],
+  "openIds": [
+   "wd-thermofisher:R-01366276",
+   "wd-thermofisher:R-01366281",
+   "wd-thermofisher:R-01366282",
+   "wd-thermofisher:R-01366284",
+   "wd-thermofisher:R-01366285"
+  ],
+  "observedOpenings": {
+   "2026": {
+    "openedOn": "2026-10-08",
+    "precision": "published",
+    "opportunityId": "wd-thermofisher:R-01366282",
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2026,
+    "openedOn": "2026-10-08",
+    "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Software-Engineer---Infrastructure-as-Code_R-01366282-1",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "nvidia-nl-remote": {
+  "status": "NOT YET ANNOUNCED",
+  "reason": "No matching listing on the monitored board as of 2026-10-09. No earlier cycles recorded yet.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "quantinuum-interns": {
+  "status": "OPEN NOW",
+  "reason": "16 matching listings are live on the official board.",
+  "matchingIds": [
+   "lever-quantinuum:0540d133-27ae-427e-ab4e-1f56a7bcd884",
+   "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "lever-quantinuum:5e7f7fba-41e1-454c-8985-30f7558095a2",
+   "lever-quantinuum:672bb667-0569-44bc-a2fa-a0fcd85673fb",
+   "lever-quantinuum:6b28b2e2-482a-40ef-9eb7-886dc4a749ef",
+   "lever-quantinuum:84cd4e05-408c-4410-8ac5-176ef8be93d9",
+   "lever-quantinuum:8617abb8-6427-4320-9a59-9d78ee57358a",
+   "lever-quantinuum:aa305a45-955d-42df-9e11-a4babb28041b",
+   "lever-quantinuum:acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
+   "lever-quantinuum:c8718a2b-2b14-486d-94aa-99b6f1049a8b",
+   "lever-quantinuum:ca00d719-ecda-4245-9c41-0da221dc2bb5",
+   "lever-quantinuum:d36cdf8b-3100-4e0f-9b8b-2177a62cd822",
+   "lever-quantinuum:dc2d5427-8263-400f-9ca7-501d2e17162f",
+   "lever-quantinuum:dc2f6f9e-b409-4640-807d-0339a12dc3cd",
+   "lever-quantinuum:ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107",
+   "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552"
+  ],
+  "openIds": [
+   "lever-quantinuum:0540d133-27ae-427e-ab4e-1f56a7bcd884",
+   "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "lever-quantinuum:5e7f7fba-41e1-454c-8985-30f7558095a2",
+   "lever-quantinuum:672bb667-0569-44bc-a2fa-a0fcd85673fb",
+   "lever-quantinuum:6b28b2e2-482a-40ef-9eb7-886dc4a749ef",
+   "lever-quantinuum:84cd4e05-408c-4410-8ac5-176ef8be93d9",
+   "lever-quantinuum:8617abb8-6427-4320-9a59-9d78ee57358a",
+   "lever-quantinuum:aa305a45-955d-42df-9e11-a4babb28041b",
+   "lever-quantinuum:acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
+   "lever-quantinuum:c8718a2b-2b14-486d-94aa-99b6f1049a8b",
+   "lever-quantinuum:ca00d719-ecda-4245-9c41-0da221dc2bb5",
+   "lever-quantinuum:d36cdf8b-3100-4e0f-9b8b-2177a62cd822",
+   "lever-quantinuum:dc2d5427-8263-400f-9ca7-501d2e17162f",
+   "lever-quantinuum:dc2f6f9e-b409-4640-807d-0339a12dc3cd",
+   "lever-quantinuum:ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107",
+   "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552"
+  ],
+  "observedOpenings": {
+   "2026": {
+    "openedOn": "2026-01-21",
+    "precision": "published",
+    "opportunityId": "lever-quantinuum:dc2f6f9e-b409-4640-807d-0339a12dc3cd",
+    "url": "https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd"
+   },
+   "2027": {
+    "openedOn": "2026-09-30",
+    "precision": "published",
+    "opportunityId": "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552",
+    "url": "https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552"
+   }
+  },
+  "evidence": [
+   {
+    "cycle": 2026,
+    "openedOn": "2026-01-21",
+    "sourceUrl": "https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd",
+    "precision": "day",
+    "from": "observed"
+   },
+   {
+    "cycle": 2027,
+    "openedOn": "2026-09-30",
+    "sourceUrl": "https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552",
+    "precision": "day",
+    "from": "observed"
+   }
+  ],
+  "prediction": {
+   "from": "2027-01-07",
+   "to": "2027-02-04",
+   "confidence": "low",
+   "basis": [
+    "Opened 2026-01-21 for the 2026 cycle (https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd)"
+   ]
+  },
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "tno-internships": {
+  "status": "OPEN NOW",
+  "reason": "3 matching listings are live on the official board.",
+  "matchingIds": [
+   "page-tno:0432e5f5",
+   "page-tno:d33c2a8b",
+   "page-tno:dd514944"
+  ],
+  "openIds": [
+   "page-tno:0432e5f5",
+   "page-tno:d33c2a8b",
+   "page-tno:dd514944"
+  ],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": "2026-10-09T10:35:54.930Z",
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "cpp-internships": {
+  "status": "STATUS UNKNOWN",
+  "reason": "The source could not be checked.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "cern-summer-student": {
+  "status": "STATUS UNKNOWN",
+  "reason": "Not monitored automatically. Check the page and record what you find.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "asml-internships": {
+  "status": "STATUS UNKNOWN",
+  "reason": "Not monitored automatically. Check the page and record what you find.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "google-internships": {
+  "status": "STATUS UNKNOWN",
+  "reason": "Not monitored automatically. Check the page and record what you find.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "booking-early-careers": {
+  "status": "STATUS UNKNOWN",
+  "reason": "Not monitored automatically. Check the page and record what you find.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ },
+ "tue-student-jobs": {
+  "status": "STATUS UNKNOWN",
+  "reason": "Not monitored automatically. Check the page and record what you find.",
+  "matchingIds": [],
+  "openIds": [],
+  "observedOpenings": {},
+  "evidence": [],
+  "prediction": null,
+  "announced": null,
+  "daysUntilOpening": null,
+  "lastCheckedAt": null,
+  "statusSince": "2026-10-09T10:35:54.930Z"
+ }
+}
