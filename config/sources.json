@@ -1,0 +1,432 @@
+{
+  "_help": "Every place Radar looks. 'type' picks the reader: greenhouse, lever, ashby, workday, smartrecruiters, recruitee, page (an official vacancy page without a feed) or manual (shown as a link to check yourself). Add a company by copying a block and changing id, employer and token. See SETUP.md, section 'Add an employer'.",
+  "detailCacheDays": 14,
+  "sources": [
+    {
+      "id": "gh-imc",
+      "employer": "IMC Trading",
+      "type": "greenhouse",
+      "token": "imc",
+      "tier": 1,
+      "publicUrl": "https://job-boards.greenhouse.io/imc",
+      "fields": [
+        "data_quant",
+        "software",
+        "semiconductors_hw"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "gh-optiver",
+      "employer": "Optiver",
+      "type": "greenhouse",
+      "token": "optiverus",
+      "tier": 1,
+      "publicUrl": "https://job-boards.greenhouse.io/optiverus",
+      "fields": [
+        "data_quant",
+        "software",
+        "semiconductors_hw"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "gh-flowtraders",
+      "employer": "Flow Traders",
+      "type": "greenhouse",
+      "token": "flowtraders",
+      "tier": 1,
+      "publicUrl": "https://job-boards.greenhouse.io/flowtraders",
+      "fields": [
+        "data_quant",
+        "software"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "gh-adyen",
+      "employer": "Adyen",
+      "type": "greenhouse",
+      "token": "adyen",
+      "tier": 1,
+      "publicUrl": "https://job-boards.greenhouse.io/adyen",
+      "fields": [
+        "software",
+        "data_quant"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "gh-databricks",
+      "employer": "Databricks",
+      "type": "greenhouse",
+      "token": "databricks",
+      "tier": 1,
+      "publicUrl": "https://job-boards.greenhouse.io/databricks",
+      "fields": [
+        "ai_ml_cv",
+        "software"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "lever-quantinuum",
+      "employer": "Quantinuum",
+      "type": "lever",
+      "token": "quantinuum",
+      "region": "eu",
+      "tier": 1,
+      "publicUrl": "https://jobs.eu.lever.co/quantinuum",
+      "fields": [
+        "quantum",
+        "comp_physics",
+        "software"
+      ],
+      "refresh": "daily"
+    },
+    {
+      "id": "wd-nxp",
+      "employer": "NXP Semiconductors",
+      "type": "workday",
+      "host": "nxp.wd3.myworkdayjobs.com",
+      "tenant": "nxp",
+      "site": "careers",
+      "tier": 1,
+      "publicUrl": "https://nxp.wd3.myworkdayjobs.com/careers",
+      "fields": [
+        "semiconductors_hw",
+        "embedded_iot",
+        "software"
+      ],
+      "refresh": "daily",
+      "countries": [
+        "Netherlands"
+      ],
+      "locationKeywords": [
+        "Netherlands",
+        "Eindhoven",
+        "Nijmegen",
+        "Best",
+        "Delft",
+        "Amsterdam",
+        "Remote"
+      ]
+    },
+    {
+      "id": "wd-philips",
+      "employer": "Philips",
+      "type": "workday",
+      "host": "philips.wd3.myworkdayjobs.com",
+      "tenant": "philips",
+      "site": "jobs-and-careers",
+      "tier": 1,
+      "publicUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+      "fields": [
+        "medical_imaging",
+        "ai_ml_cv",
+        "software"
+      ],
+      "refresh": "daily",
+      "countries": [
+        "Netherlands"
+      ],
+      "locationKeywords": [
+        "Netherlands",
+        "Eindhoven",
+        "Nijmegen",
+        "Best",
+        "Delft",
+        "Amsterdam",
+        "Remote"
+      ]
+    },
+    {
+      "id": "wd-thermofisher",
+      "employer": "Thermo Fisher Scientific",
+      "type": "workday",
+      "host": "thermofisher.wd5.myworkdayjobs.com",
+      "tenant": "thermofisher",
+      "site": "ThermoFisherCareers",
+      "tier": 1,
+      "publicUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
+      "fields": [
+        "comp_physics",
+        "ai_ml_cv",
+        "software"
+      ],
+      "refresh": "daily",
+      "countries": [
+        "Netherlands"
+      ],
+      "locationKeywords": [
+        "Netherlands",
+        "Eindhoven",
+        "Nijmegen",
+        "Best",
+        "Delft",
+        "Amsterdam",
+        "Remote"
+      ]
+    },
+    {
+      "id": "wd-nvidia",
+      "employer": "NVIDIA",
+      "type": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "tier": 1,
+      "publicUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "fields": [
+        "ai_ml_cv",
+        "semiconductors_hw",
+        "software"
+      ],
+      "refresh": "daily",
+      "countries": [
+        "Netherlands"
+      ],
+      "locationKeywords": [
+        "Netherlands",
+        "Eindhoven",
+        "Nijmegen",
+        "Best",
+        "Delft",
+        "Amsterdam",
+        "Remote"
+      ]
+    },
+    {
+      "id": "page-tno",
+      "employer": "TNO",
+      "type": "page",
+      "urls": [
+        "https://www.tno.nl/en/careers/",
+        "https://www.tno.nl/en/careers/graduates/"
+      ],
+      "linkPattern": "tno\\.nl/en/careers/vacancies/\\d{4}/\\d{2}/",
+      "defaultLocation": "Netherlands",
+      "maxDetails": 25,
+      "tier": 2,
+      "publicUrl": "https://www.tno.nl/en/careers/graduates/",
+      "fields": [
+        "comp_physics",
+        "semiconductors_hw",
+        "ai_ml_cv"
+      ],
+      "refresh": "daily",
+      "note": "Page watcher: reads TNO's own vacancy pages. If TNO changes its website layout this source will show an error."
+    },
+    {
+      "id": "page-cpp",
+      "employer": "Canon Production Printing",
+      "type": "page",
+      "urls": [
+        "https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date"
+      ],
+      "linkPattern": "jobs\\.cpp\\.canon/job/",
+      "defaultLocation": "Netherlands",
+      "studentOnly": false,
+      "maxDetails": 25,
+      "tier": 2,
+      "publicUrl": "https://www.cpp.canon/en/careers",
+      "fields": [
+        "comp_physics",
+        "embedded_iot",
+        "software"
+      ],
+      "refresh": "daily",
+      "note": "Page watcher on the internship search results. Experimental: if the results load with JavaScript, this will report 'no vacancy links' and should be switched to manual."
+    },
+    {
+      "id": "m-asml",
+      "employer": "ASML",
+      "type": "manual",
+      "publicUrl": "https://www.asml.com/en/careers/find-your-job",
+      "reason": "The job search loads results with JavaScript and offers no public feed. ASML offers job alerts on its site.",
+      "fields": [
+        "semiconductors_hw",
+        "comp_physics",
+        "software"
+      ]
+    },
+    {
+      "id": "m-booking",
+      "employer": "Booking.com",
+      "type": "manual",
+      "publicUrl": "https://careers.booking.com/early-careers/",
+      "reason": "Uses iCIMS, which has no public job API.",
+      "fields": [
+        "software",
+        "data_quant"
+      ]
+    },
+    {
+      "id": "m-tue",
+      "employer": "TU/e (Eindhoven University of Technology)",
+      "type": "manual",
+      "publicUrl": "https://www.tue.nl/en/working-at-tue/vacancy-overview",
+      "reason": "Vacancies are run through Varbi, with no public feed. Student-assistant jobs are mostly announced inside departments, on Canvas or by email. Varbi job alerts: https://tue.varbi.com/en/what:subscribe/",
+      "fields": [
+        "comp_physics",
+        "software",
+        "ai_ml_cv"
+      ]
+    },
+    {
+      "id": "m-differ",
+      "employer": "DIFFER",
+      "type": "manual",
+      "publicUrl": "https://www.differ.nl/working-at/internships-and-thesis-projects",
+      "reason": "Internships are arranged by contacting research groups; there is no feed.",
+      "fields": [
+        "comp_physics"
+      ]
+    },
+    {
+      "id": "m-cern",
+      "employer": "CERN",
+      "type": "manual",
+      "publicUrl": "https://careers.cern/summer",
+      "reason": "No public feed that Radar is permitted to read.",
+      "fields": [
+        "comp_physics",
+        "software"
+      ]
+    },
+    {
+      "id": "m-google",
+      "employer": "Google",
+      "type": "manual",
+      "publicUrl": "https://www.google.com/about/careers/applications/students/",
+      "reason": "No public job API.",
+      "fields": [
+        "software",
+        "ai_ml_cv"
+      ]
+    },
+    {
+      "id": "m-prodrive",
+      "employer": "Prodrive Technologies",
+      "type": "manual",
+      "publicUrl": "https://prodrive-technologies.com/careers/",
+      "reason": "No public job feed found.",
+      "fields": [
+        "embedded_iot",
+        "semiconductors_hw",
+        "software"
+      ]
+    },
+    {
+      "id": "m-microsoft",
+      "employer": "Microsoft",
+      "type": "manual",
+      "publicUrl": "https://careers.microsoft.com/",
+      "reason": "No public job API.",
+      "linkVerified": false,
+      "fields": [
+        "software",
+        "ai_ml_cv"
+      ]
+    },
+    {
+      "id": "m-ibm",
+      "employer": "IBM (incl. IBM Quantum)",
+      "type": "manual",
+      "publicUrl": "https://www.ibm.com/careers",
+      "reason": "No public job API.",
+      "linkVerified": false,
+      "fields": [
+        "quantum",
+        "software"
+      ]
+    },
+    {
+      "id": "m-qblox",
+      "employer": "Qblox",
+      "type": "manual",
+      "publicUrl": "https://www.qblox.com/careers",
+      "reason": "Careers page could not be read automatically.",
+      "linkVerified": false,
+      "fields": [
+        "quantum",
+        "semiconductors_hw",
+        "embedded_iot"
+      ]
+    },
+    {
+      "id": "m-qutech",
+      "employer": "QuTech",
+      "type": "manual",
+      "publicUrl": "https://qutech.nl/vacancies/",
+      "reason": "Vacancies page could not be read automatically.",
+      "linkVerified": false,
+      "fields": [
+        "quantum",
+        "comp_physics"
+      ]
+    },
+    {
+      "id": "m-imec",
+      "employer": "imec",
+      "type": "manual",
+      "publicUrl": "https://www.imec-int.com/en/work-at-imec",
+      "reason": "No public job feed found.",
+      "linkVerified": false,
+      "fields": [
+        "semiconductors_hw",
+        "comp_physics"
+      ]
+    },
+    {
+      "id": "m-esa",
+      "employer": "ESA",
+      "type": "manual",
+      "publicUrl": "https://www.esa.int/About_Us/Careers_at_ESA",
+      "reason": "ESA's recruitment system has no public feed.",
+      "linkVerified": false,
+      "fields": [
+        "comp_physics",
+        "software"
+      ]
+    },
+    {
+      "id": "m-vanderlande",
+      "employer": "Vanderlande",
+      "type": "manual",
+      "publicUrl": "https://www.vanderlande.com/careers/",
+      "reason": "Careers page could not be read automatically.",
+      "linkVerified": false,
+      "fields": [
+        "robotics",
+        "software",
+        "embedded_iot"
+      ]
+    },
+    {
+      "id": "m-daf",
+      "employer": "DAF Trucks",
+      "type": "manual",
+      "publicUrl": "https://www.daf.com/en/careers",
+      "reason": "No public job feed found.",
+      "linkVerified": false,
+      "fields": [
+        "embedded_iot",
+        "software",
+        "robotics"
+      ]
+    },
+    {
+      "id": "m-vdl",
+      "employer": "VDL Groep",
+      "type": "manual",
+      "publicUrl": "https://www.vdlgroep.com/en/careers",
+      "reason": "No public job feed found.",
+      "linkVerified": false,
+      "fields": [
+        "robotics",
+        "semiconductors_hw"
+      ]
+    }
+  ]
+}

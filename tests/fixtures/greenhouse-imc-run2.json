@@ -1,0 +1,81 @@
+{
+ "jobs": [
+  {
+   "id": 101,
+   "title": "Hardware Engineer Intern",
+   "location": {
+    "name": "Amsterdam, North Holland, Netherlands"
+   },
+   "absolute_url": "https://job-boards.example.test/imc/jobs/101",
+   "updated_at": "2026-10-01T09:00:00Z",
+   "first_published": "2026-09-20T10:00:00Z",
+   "departments": [
+    {
+     "name": "Hardware"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Amsterdam",
+     "location": "Amsterdam, Netherlands"
+    }
+   ],
+   "content": "&lt;p&gt;Join our FPGA team for a 10-week internship in Summer 2027.&lt;/p&gt;&lt;h3&gt;What you bring&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;You are a Bachelor&#x27;s or Master&#x27;s student in Electrical Engineering, Computer Science or Physics&lt;/li&gt;&lt;li&gt;Experience with Verilog or VHDL and Python&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Nice to have&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;C++&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;We offer a competitive salary and housing support.&lt;/p&gt;&lt;p&gt;Application deadline: 15 December 2026.&lt;/p&gt;&lt;p&gt;Candidates must be eligible to work in the Netherlands; we are unable to provide visa sponsorship for internships.&lt;/p&gt;"
+  },
+  {
+   "id": 102,
+   "title": "Deep Learning Research Intern - Summer 2027",
+   "location": {
+    "name": "Chicago, Illinois, United States"
+   },
+   "absolute_url": "https://job-boards.example.test/imc/jobs/102",
+   "updated_at": "2026-10-01T09:00:00Z",
+   "first_published": "2026-09-25T10:00:00Z",
+   "departments": [
+    {
+     "name": "Research"
+    }
+   ],
+   "offices": [],
+   "content": "&lt;p&gt;For PhD students pursuing a PhD in machine learning. PyTorch required.&lt;/p&gt;"
+  },
+  {
+   "id": 103,
+   "title": "Software Engineer",
+   "location": {
+    "name": "Amsterdam, Netherlands"
+   },
+   "absolute_url": "https://job-boards.example.test/imc/jobs/103",
+   "updated_at": "2026-10-01T09:00:00Z",
+   "content": "&lt;p&gt;Full-time role.&lt;/p&gt;",
+   "departments": [],
+   "offices": []
+  },
+  {
+   "id": 105,
+   "title": "Internal Audit Specialist",
+   "location": {
+    "name": "Amsterdam"
+   },
+   "absolute_url": "https://job-boards.example.test/imc/jobs/105",
+   "content": "",
+   "departments": [],
+   "offices": []
+  },
+  {
+   "id": 106,
+   "title": "Quantitative Research Intern",
+   "location": {
+    "name": "Amsterdam, Netherlands"
+   },
+   "absolute_url": "https://job-boards.example.test/imc/jobs/106",
+   "first_published": "2026-10-08T08:00:00Z",
+   "content": "&lt;p&gt;Open to first-year Bachelor&#x27;s students in mathematics, physics or computer science. Statistics and Python. 8 weeks, starting July 2027.&lt;/p&gt;",
+   "departments": [],
+   "offices": []
+  }
+ ],
+ "meta": {
+  "total": 5
+ }
+}

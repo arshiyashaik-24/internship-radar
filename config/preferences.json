@@ -1,0 +1,76 @@
+{
+  "_help": "Default preferences. The dashboard's Settings page can override these in your browser; use 'Download preferences.json' there and replace this file to make them the default everywhere.",
+  "profile": {
+    "degreeLevel": "bachelor",
+    "studyYear": 1,
+    "academicYearStart": 2026,
+    "expectedGraduationYear": 2029,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Computer vision",
+      "Image processing",
+      "Machine learning"
+    ]
+  },
+  "summer": {
+    "from": "2027-07-01",
+    "to": "2027-09-30"
+  },
+  "partTime": {
+    "minHours": 8,
+    "maxHours": 16
+  },
+  "locations": {
+    "netherlands": true,
+    "hybridNL": true,
+    "remoteNL": true,
+    "remoteEurope": true,
+    "remoteWorldwide": true,
+    "europeOnsite": false,
+    "preferBrainport": true
+  },
+  "fields": [
+    "ai_ml_cv",
+    "quantum",
+    "robotics",
+    "semiconductors_hw",
+    "comp_physics",
+    "embedded_iot",
+    "data_quant",
+    "medical_imaging",
+    "software"
+  ],
+  "compensation": {
+    "paidPreferred": true,
+    "allowUnpaidResearch": true
+  },
+  "eligibility": {
+    "show": [
+      "eligible",
+      "potential"
+    ],
+    "trackFutureSeparately": true
+  },
+  "weights": {
+    "technical": 35,
+    "eligibility": 25,
+    "location": 15,
+    "schedule": 10,
+    "skills": 10,
+    "compensation": 5
+  },
+  "alerts": {
+    "minScore": 50,
+    "deadlineDays": 14,
+    "openingDays": 14,
+    "types": {
+      "new": true,
+      "opened": true,
+      "openingSoon": true,
+      "deadline": true,
+      "changed": true,
+      "sourceRecovered": true
+    }
+  }
+}

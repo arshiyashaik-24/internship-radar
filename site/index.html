@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Internship Radar</title>
+  <meta name="description" content="Personal internship monitor: real student vacancies from official employer sources, refreshed daily.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='none' stroke='%232C4BD6' stroke-width='2.5'/%3E%3Cpath d='M16 16 L26 9' stroke='%232C4BD6' stroke-width='2.5' stroke-linecap='round'/%3E%3Ccircle cx='21' cy='20' r='2.6' fill='%232C4BD6'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="shell">
+    <aside class="rail" aria-label="Sections">
+      <a class="brand" href="#overview" aria-label="Internship Radar, overview">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+          <circle cx="16" cy="16" r="13" />
+          <circle cx="16" cy="16" r="7" class="ring" />
+          <path d="M16 16 L26 9" class="sweep" />
+          <circle cx="21" cy="20" r="2.4" class="blip" />
+        </svg>
+        <span>Internship Radar</span>
+      </a>
+      <nav>
+        <a href="#overview" data-view="overview">Overview</a>
+        <a href="#live" data-view="live">Opportunities <span class="count" data-count="live"></span></a>
+        <a href="#radar" data-view="radar">Opening radar</a>
+        <a href="#remote" data-view="remote">Remote</a>
+        <a href="#parttime" data-view="parttime">Part-time now</a>
+        <a href="#saved" data-view="saved">Saved and applied <span class="count" data-count="saved"></span></a>
+        <a href="#sources" data-view="sources">Sources and health</a>
+        <a href="#settings" data-view="settings">Settings</a>
+      </nav>
+    </aside>
+
+    <div class="main-col">
+      <header class="statusbar" id="statusbar" aria-live="polite">Loading data…</header>
+      <main id="main" tabindex="-1">
+        <noscript><p class="empty">This dashboard needs JavaScript to read its data files.</p></noscript>
+      </main>
+    </div>
+  </div>
+
+  <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+  <aside class="drawer" id="drawer" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="drawer-title"></aside>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

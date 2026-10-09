@@ -1,0 +1,16 @@
+{
+  "name": "internship-radar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal internship monitor: a daily GitHub Action collects real student vacancies from official employer job feeds and publishes a dashboard on GitHub Pages.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "test": "node --test tests/*.test.js",
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build-site.js"
+  }
+}

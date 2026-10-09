@@ -1,0 +1,46 @@
+[
+ {
+  "pattern": "/wday/cxs/nxp/careers/job/Austin/",
+  "body": "{\"jobPostingInfo\": {\"title\": \"Intern Marketing\", \"jobDescription\": \"<p>Marketing internship.</p>\", \"location\": \"Austin\", \"country\": {\"descriptor\": \"United States of America\"}, \"timeType\": \"Full time\", \"startDate\": \"2026-10-01\", \"externalUrl\": \"https://nxp.example.test/careers/job/Austin/Intern-Marketing_R-1003\"}}"
+ },
+ {
+  "pattern": "/robots\\.txt$",
+  "status": 404
+ },
+ {
+  "pattern": "boards-api\\.greenhouse\\.io/v1/boards/imc/jobs\\?content=true",
+  "file": "greenhouse-imc.json"
+ },
+ {
+  "pattern": "boards-api\\.greenhouse\\.io/v1/boards/imc/jobs/104$",
+  "status": 404
+ },
+ {
+  "pattern": "api\\.eu\\.lever\\.co/v0/postings/quantinuum\\?",
+  "file": "lever-quantinuum.json"
+ },
+ {
+  "pattern": "nxp\\.wd3\\.myworkdayjobs\\.com/wday/cxs/nxp/careers/jobs$",
+  "file": "workday-nxp-search.json"
+ },
+ {
+  "pattern": "/wday/cxs/nxp/careers/job/Eindhoven/",
+  "file": "workday-nxp-1001.json"
+ },
+ {
+  "pattern": "/wday/cxs/nxp/careers/job/Nijmegen/",
+  "file": "workday-nxp-1002.json"
+ },
+ {
+  "pattern": "tno\\.nl/en/careers/$",
+  "file": "page-tno-list.html"
+ },
+ {
+  "pattern": "tno\\.nl/en/careers/graduates/$",
+  "body": "<html><body>No links here</body></html>"
+ },
+ {
+  "pattern": "tno\\.nl/en/careers/vacancies/2026/09/internship-photonics",
+  "file": "page-tno-detail.html"
+ }
+]

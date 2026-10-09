@@ -1,0 +1,50 @@
+{
+ "total": 3,
+ "jobPostings": [
+  {
+   "title": "Internship Image Processing for Wafer Inspection",
+   "externalPath": "/job/Eindhoven/Internship-Image-Processing_R-1001",
+   "locationsText": "Eindhoven",
+   "postedOn": "Posted 3 Days Ago",
+   "bulletFields": [
+    "R-1001"
+   ]
+  },
+  {
+   "title": "Graduation Internship Embedded Security",
+   "externalPath": "/job/Nijmegen/Graduation-Internship_R-1002",
+   "locationsText": "Nijmegen",
+   "postedOn": "Posted 10 Days Ago",
+   "bulletFields": [
+    "R-1002"
+   ]
+  },
+  {
+   "title": "Intern Marketing",
+   "externalPath": "/job/Austin/Intern-Marketing_R-1003",
+   "locationsText": "Austin, Texas",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R-1003"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "Location_Country",
+   "descriptor": "Country/Territory",
+   "values": [
+    {
+     "descriptor": "Netherlands",
+     "id": "9696868b09c64d52a62ee13b052383cc",
+     "count": 21
+    },
+    {
+     "descriptor": "China",
+     "id": "cn1",
+     "count": 200
+    }
+   ]
+  }
+ ]
+}

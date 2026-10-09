@@ -1,0 +1,43 @@
+[
+ {
+  "id": "q-1",
+  "text": "Quantum Software Intern (part-time)",
+  "hostedUrl": "https://jobs.example.test/quantinuum/q-1",
+  "applyUrl": "https://jobs.example.test/quantinuum/q-1/apply",
+  "categories": {
+   "location": "Remote - Europe",
+   "commitment": "Part-time",
+   "team": "Software",
+   "allLocations": [
+    "Remote - Europe"
+   ]
+  },
+  "workplaceType": "remote",
+  "createdAt": 1759999999000,
+  "descriptionPlain": "Work on our quantum compiler alongside your studies, 12-16 hours per week, starting as soon as possible. You are currently enrolled in a Bachelor's programme in physics or computer science.",
+  "lists": [
+   {
+    "text": "Requirements",
+    "content": "<li>Python</li><li>Linear algebra</li>"
+   },
+   {
+    "text": "Nice to have",
+    "content": "<li>Qiskit or Cirq</li><li>C++</li>"
+   }
+  ],
+  "additionalPlain": "This is a paid position: EUR 18 per hour.",
+  "salaryRange": null
+ },
+ {
+  "id": "q-2",
+  "text": "Advanced Physicist",
+  "hostedUrl": "https://jobs.example.test/quantinuum/q-2",
+  "categories": {
+   "location": "US Broomfield, CO",
+   "commitment": "Full-time"
+  },
+  "descriptionPlain": "Senior role.",
+  "lists": [],
+  "createdAt": 1759999999000
+ }
+]

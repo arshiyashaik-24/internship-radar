@@ -1,0 +1,17 @@
+{
+ "jobPostingInfo": {
+  "id": "x2",
+  "title": "Graduation Internship Embedded Security",
+  "jobDescription": "<p>Master's thesis project for MSc students in their final year. Embedded C, firmware.</p>",
+  "location": "Nijmegen",
+  "timeType": "Full time",
+  "startDate": "2026-09-29",
+  "externalUrl": "https://nxp.example.test/careers/job/Nijmegen/Graduation-Internship_R-1002",
+  "jobReqId": "R-1002",
+  "country": {
+   "descriptor": "Netherlands",
+   "id": "9696868b09c64d52a62ee13b052383cc"
+  },
+  "canApply": true
+ }
+}

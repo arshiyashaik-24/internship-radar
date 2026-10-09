@@ -1,0 +1,108 @@
+{
+ "_help": "Recurring programmes shown on the Opening radar. 'auto' programmes are matched against listings from their source; 'manual' ones are checked by you. Add real evidence only, always with a source URL: evidence = [{\"cycle\": 2026, \"openedOn\": \"2025-09-15\", \"deadline\": null, \"sourceUrl\": \"https://...\", \"note\": \"...\"}]. When an employer announces dates, fill 'announced': {\"cycle\": 2027, \"opening\": \"YYYY-MM-DD\", \"deadline\": \"YYYY-MM-DD\", \"sourceUrl\": \"https://...\", \"verifiedOn\": \"YYYY-MM-DD\"}. Radar also records openings it observes itself, so predictions improve each year.",
+ "programmes": [
+  {
+   "id": "imc-amsterdam",
+   "employer": "IMC Trading",
+   "name": "Internships in Amsterdam",
+   "kind": "auto",
+   "sourceId": "gh-imc",
+   "match": {
+    "titleAny": [
+     "intern"
+    ],
+    "locationAny": [
+     "amsterdam"
+    ]
+   },
+   "url": "https://job-boards.greenhouse.io/imc",
+   "rolling": null,
+   "evidence": []
+  },
+  {
+   "id": "imc-eu-campus",
+   "employer": "IMC Trading",
+   "name": "EU campus programme interest list",
+   "kind": "auto",
+   "sourceId": "gh-imc",
+   "match": {
+    "titleAny": [
+     "campus programme",
+     "talent community",
+     "expression of interest"
+    ],
+    "locationAny": [
+     "europe",
+     "amsterdam"
+    ]
+   },
+   "url": "https://job-boards.greenhouse.io/imc",
+   "rolling": null,
+   "evidence": []
+  },
+  {
+   "id": "nxp-nl",
+   "employer": "NXP Semiconductors",
+   "name": "Internships and student jobs in the Netherlands",
+   "kind": "auto",
+   "sourceId": "wd-nxp",
+   "match": {
+    "titleAny": [
+     "intern",
+     "student",
+     "stage",
+     "graduation"
+    ]
+   },
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers",
+   "rolling": true,
+   "evidence": []
+  },
+  {
+   "id": "quantinuum-interns",
+   "employer": "Quantinuum",
+   "name": "Internships",
+   "kind": "auto",
+   "sourceId": "lever-quantinuum",
+   "match": {
+    "titleAny": [
+     "intern",
+     "student"
+    ]
+   },
+   "url": "https://jobs.eu.lever.co/quantinuum",
+   "rolling": null,
+   "evidence": []
+  },
+  {
+   "id": "cern-summer-student",
+   "employer": "CERN",
+   "name": "Summer Student Programme",
+   "kind": "manual",
+   "url": "https://careers.cern/summer",
+   "rolling": false,
+   "evidence": [],
+   "eligibilityNote": "The programme page (checked 9 Oct 2026) asks for at least 6 completed semesters of full-time study in physics, engineering, computer science or mathematics, so a first-year student is not eligible yet. The page did not list application dates."
+  },
+  {
+   "id": "demo-evidence",
+   "employer": "IMC Trading",
+   "name": "Prediction test",
+   "kind": "auto",
+   "sourceId": "gh-imc",
+   "match": {
+    "titleAny": [
+     "nonexistent-title"
+    ]
+   },
+   "evidence": [
+    {
+     "cycle": 2026,
+     "openedOn": "2025-09-10",
+     "sourceUrl": "https://example.test/evidence",
+     "note": "test only"
+    }
+   ]
+  }
+ ]
+}

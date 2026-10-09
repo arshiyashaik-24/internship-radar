@@ -1,0 +1,17 @@
+{
+ "jobPostingInfo": {
+  "id": "x1",
+  "title": "Internship Image Processing for Wafer Inspection",
+  "jobDescription": "<p>Develop computer vision and deep learning algorithms for wafer inspection.</p><p>Requirements: HBO or WO Bachelor student, Python, OpenCV, PyTorch. Minimum of 5 months, 32-40 hours per week.</p><p>We offer an internship allowance of \u20ac600 per month.</p>",
+  "location": "Eindhoven",
+  "timeType": "Full time",
+  "startDate": "2026-10-06",
+  "externalUrl": "https://nxp.example.test/careers/job/Eindhoven/Internship-Image-Processing_R-1001",
+  "jobReqId": "R-1001",
+  "country": {
+   "descriptor": "Netherlands",
+   "id": "9696868b09c64d52a62ee13b052383cc"
+  },
+  "canApply": true
+ }
+}

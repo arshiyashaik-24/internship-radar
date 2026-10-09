@@ -1,0 +1,95 @@
+{
+ "_help": "Every place Radar looks. 'type' picks the reader: greenhouse, lever, ashby, workday, smartrecruiters, recruitee, page (an official vacancy page without a feed) or manual (shown as a link to check yourself). Add a company by copying a block and changing id, employer and token. See SETUP.md, section 'Add an employer'.",
+ "detailCacheDays": 14,
+ "sources": [
+  {
+   "id": "gh-imc",
+   "employer": "IMC Trading",
+   "type": "greenhouse",
+   "token": "imc",
+   "tier": 1,
+   "publicUrl": "https://job-boards.greenhouse.io/imc",
+   "fields": [
+    "data_quant",
+    "software",
+    "semiconductors_hw"
+   ],
+   "refresh": "daily"
+  },
+  {
+   "id": "lever-quantinuum",
+   "employer": "Quantinuum",
+   "type": "lever",
+   "token": "quantinuum",
+   "region": "eu",
+   "tier": 1,
+   "publicUrl": "https://jobs.eu.lever.co/quantinuum",
+   "fields": [
+    "quantum",
+    "comp_physics",
+    "software"
+   ],
+   "refresh": "daily"
+  },
+  {
+   "id": "wd-nxp",
+   "employer": "NXP Semiconductors",
+   "type": "workday",
+   "host": "nxp.wd3.myworkdayjobs.com",
+   "tenant": "nxp",
+   "site": "careers",
+   "locationKeywords": [
+    "Netherlands",
+    "Eindhoven",
+    "Nijmegen",
+    "Delft",
+    "Remote"
+   ],
+   "tier": 1,
+   "publicUrl": "https://nxp.wd3.myworkdayjobs.com/careers",
+   "fields": [
+    "semiconductors_hw",
+    "embedded_iot",
+    "software"
+   ],
+   "refresh": "daily",
+   "countries": [
+    "Netherlands"
+   ]
+  },
+  {
+   "id": "page-tno",
+   "employer": "TNO",
+   "type": "page",
+   "urls": [
+    "https://www.tno.nl/en/careers/",
+    "https://www.tno.nl/en/careers/graduates/"
+   ],
+   "linkPattern": "tno\\.nl/en/careers/vacancies/\\d{4}/\\d{2}/",
+   "defaultLocation": "Netherlands",
+   "maxDetails": 25,
+   "tier": 2,
+   "publicUrl": "https://www.tno.nl/en/careers/graduates/",
+   "fields": [
+    "comp_physics",
+    "semiconductors_hw",
+    "ai_ml_cv"
+   ],
+   "refresh": "daily",
+   "note": "Page watcher: reads TNO's own vacancy pages. If TNO changes its website layout this source will show an error."
+  },
+  {
+   "id": "m-asml",
+   "employer": "ASML",
+   "type": "manual",
+   "publicUrl": "https://www.asml.com/en/careers/find-your-job",
+   "reason": "The job search loads results with JavaScript and offers no public feed. ASML offers job alerts on its site.",
+   "fields": [
+    "semiconductors_hw",
+    "comp_physics",
+    "software"
+   ]
+  }
+ ],
+ "checkManualLinks": false
+}
