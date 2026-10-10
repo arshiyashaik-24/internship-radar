@@ -1,6 +1,94 @@
 {
  "events": [
   {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "new",
+   "id": "gh-databricks:8787352002",
+   "sourceId": "gh-databricks",
+   "to": "Product Design Intern (2027 Start)",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "changed",
+   "id": "gh-databricks:8133715002",
+   "sourceId": "gh-databricks",
+   "field": "title",
+   "from": "Product Management Intern (2026) - Amsterdam",
+   "to": "Product Management Intern (2027) - Amsterdam",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "changed",
+   "id": "gh-databricks:8863328002",
+   "sourceId": "gh-databricks",
+   "field": "title",
+   "from": "Product Management Intern (2026) - Belgrade",
+   "to": "Product Management Intern (2027) - Belgrade",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "changed",
+   "id": "gh-databricks:8145776002",
+   "sourceId": "gh-databricks",
+   "field": "title",
+   "from": "Product Management Intern (2026) - Berlin",
+   "to": "Product Management Intern (2027) - Berlin",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "new",
+   "id": "wd-nxp:R-10067224",
+   "sourceId": "wd-nxp",
+   "to": "Master Thesis Internship - AI-Driven Transistor Design Exploration",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Master-Thesis-Internship---AI-Driven-Transistor-Design-Exploration_R-10067224"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "closed",
+   "id": "page-tno:0432e5f5",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-oxygen-activation-second/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "closed",
+   "id": "page-tno:d33c2a8b",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-modelling-photo-driven-green/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "closed",
+   "id": "page-tno:dd514944",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-10T10:36:54.714Z",
+   "type": "programme_status",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://www.tno.nl/en/careers/graduates/"
+  },
+  {
    "at": "2026-10-09T10:35:54.930Z",
    "type": "new",
    "id": "gh-imc:4940448101",
