@@ -1,6 +1,65 @@
 {
  "events": [
   {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "closed",
+   "id": "gh-flowtraders:8258760",
+   "sourceId": "gh-flowtraders",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8258760",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "new",
+   "id": "page-tno:a333eb06",
+   "sourceId": "page-tno",
+   "to": "Internship | Cloud Resource Models for Virtual Core",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-cloud-resource-models-virtual/"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "reopened",
+   "id": "page-tno:dd514944",
+   "sourceId": "page-tno",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "new",
+   "id": "page-tno:0837656f",
+   "sourceId": "page-tno",
+   "to": "Internship | Advancing Perovskite Tandem Solar Cells through Innovative Passivation Strategies",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-advancing-perovskite-tandem/"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "new",
+   "id": "page-tno:e39bd80a",
+   "sourceId": "page-tno",
+   "to": "Internship| Boosting the Future of Solar with Perovskite Tandem Devices",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-boosting-future-solar/"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "new",
+   "id": "page-tno:68577f94",
+   "sourceId": "page-tno",
+   "to": "Internship | Agent-based modelling of bird migration through wind farms",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-agent-based-modelling-bird/"
+  },
+  {
+   "at": "2026-10-12T12:00:23.714Z",
+   "type": "programme_opened",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "CLOSED",
+   "to": "OPEN NOW",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/"
+  },
+  {
    "at": "2026-10-11T10:49:31.333Z",
    "type": "closed",
    "id": "wd-philips:592536",
