@@ -1,6 +1,52 @@
 {
  "events": [
   {
+   "at": "2026-10-13T11:48:42.014Z",
+   "type": "new",
+   "id": "gh-optiver:8402215002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Intern (Summer 2027)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002"
+  },
+  {
+   "at": "2026-10-13T11:48:42.014Z",
+   "type": "new",
+   "id": "gh-optiver:8682750002",
+   "sourceId": "gh-optiver",
+   "to": "Quantitative Intern (Summer 2027)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002"
+  },
+  {
+   "at": "2026-10-13T11:48:42.014Z",
+   "type": "new",
+   "id": "gh-databricks:6865687002",
+   "sourceId": "gh-databricks",
+   "to": "Software Engineering Intern (2027)",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+  },
+  {
+   "at": "2026-10-13T11:48:42.014Z",
+   "type": "closed",
+   "id": "wd-philips:592635",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Intern_592635",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-13T11:48:42.014Z",
+   "type": "closed",
+   "id": "page-tno:a333eb06",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-cloud-resource-models-virtual/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-12T12:00:23.714Z",
    "type": "closed",
    "id": "gh-flowtraders:8258760",

@@ -1,17 +1,23 @@
 {
  "gh-imc": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 1347,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 1255,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 26,
-  "scanned": 176,
+  "scanned": 174,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 26,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -39,18 +45,24 @@
   ]
  },
  "gh-optiver": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 1072,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 1149,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
-  "listingsFound": 21,
-  "scanned": 159,
+  "listingsFound": 23,
+  "scanned": 160,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 23,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -78,18 +90,24 @@
   ]
  },
  "gh-flowtraders": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 998,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 980,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 1,
-  "scanned": 46,
+  "scanned": 47,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 1,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -117,18 +135,24 @@
   ]
  },
  "gh-adyen": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 1179,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 1132,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 0,
-  "scanned": 235,
+  "scanned": 245,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 0,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -156,18 +180,24 @@
   ]
  },
  "gh-databricks": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 1391,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 1323,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
-  "listingsFound": 12,
-  "scanned": 889,
+  "listingsFound": 13,
+  "scanned": 897,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 13,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -195,18 +225,24 @@
   ]
  },
  "lever-quantinuum": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 3829,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 3531,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 16,
-  "scanned": 123,
+  "scanned": 122,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 16,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -234,10 +270,10 @@
   ]
  },
  "wd-nxp": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 33025,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 32326,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 12,
   "scanned": 73,
@@ -246,6 +282,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 12,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -273,18 +315,24 @@
   ]
  },
  "wd-philips": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 41108,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 42068,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
-  "listingsFound": 19,
-  "scanned": 99,
+  "listingsFound": 18,
+  "scanned": 96,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 18,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -312,18 +360,24 @@
   ]
  },
  "wd-thermofisher": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 61228,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 57584,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 5,
-  "scanned": 60,
+  "scanned": 58,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 5,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -351,10 +405,10 @@
   ]
  },
  "wd-nvidia": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 23299,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 19132,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
   "listingsFound": 0,
   "scanned": 9,
@@ -363,6 +417,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 0,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -390,18 +450,24 @@
   ]
  },
  "page-tno": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "ok",
-  "durationMs": 7705,
-  "lastSuccessAt": "2026-10-12T12:00:23.714Z",
+  "durationMs": 4206,
+  "lastSuccessAt": "2026-10-13T11:48:42.014Z",
   "consecutiveFailures": 0,
-  "listingsFound": 5,
+  "listingsFound": 3,
   "scanned": 10,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "ok",
+    "found": 3,
+    "error": null
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "ok",
@@ -429,15 +495,21 @@
   ]
  },
  "page-cpp": {
-  "lastAttemptAt": "2026-10-12T12:00:23.714Z",
+  "lastAttemptAt": "2026-10-13T11:48:42.014Z",
   "lastStatus": "failed",
-  "durationMs": 1563,
-  "consecutiveFailures": 4,
+  "durationMs": 1490,
+  "consecutiveFailures": 5,
   "lastError": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript.",
   "lastErrorCode": "no_links",
   "health": "failing",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-10-13T11:48:42.014Z",
+    "status": "failed",
+    "found": 0,
+    "error": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+   },
    {
     "at": "2026-10-12T12:00:23.714Z",
     "status": "failed",
