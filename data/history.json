@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "changed",
+   "id": "gh-imc:4907430101",
+   "sourceId": "gh-imc",
+   "field": "title",
+   "from": "Deep Learning Research Intern - Summer 2027 - Chicago, New York",
+   "to": "Deep Learning Research Intern - Summer 2027 - New York",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
+  },
+  {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "changed",
+   "id": "gh-optiver:8642260002",
+   "sourceId": "gh-optiver",
+   "field": "eligibility",
+   "from": "future",
+   "to": "eligible",
+   "evidence": "https://www.optiver.com/join-us/jobs/8642260002/?gh_jid=8642260002"
+  },
+  {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "new",
+   "id": "gh-flowtraders:8047166",
+   "sourceId": "gh-flowtraders",
+   "to": "Quantitative Trading Intern Summer 2027",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166"
+  },
+  {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "new",
+   "id": "gh-flowtraders:8260920",
+   "sourceId": "gh-flowtraders",
+   "to": "Summer Trading Internship",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920"
+  },
+  {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "closed",
+   "id": "wd-philips:586189",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data--AI---Algorithm-Internship---Philips-Avent-Experience-Innovation_586189",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-14T09:31:18.625Z",
+   "type": "programme_opened",
+   "programmeId": "flow-amsterdam",
+   "field": "status",
+   "from": "NOT YET ANNOUNCED",
+   "to": "OPEN NOW",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920"
+  },
+  {
    "at": "2026-10-13T11:48:42.014Z",
    "type": "new",
    "id": "gh-optiver:8402215002",

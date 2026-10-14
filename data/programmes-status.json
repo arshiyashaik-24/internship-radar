@@ -42,7 +42,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "imc-eu-campus": {
@@ -76,7 +76,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "optiver-amsterdam": {
@@ -116,25 +116,29 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "flow-amsterdam": {
-  "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-10-13. No earlier cycles recorded yet.",
-  "matchingIds": [],
-  "openIds": [],
+  "status": "OPEN NOW",
+  "reason": "1 matching listing is live on the official board.",
+  "matchingIds": [
+   "gh-flowtraders:8260920"
+  ],
+  "openIds": [
+   "gh-flowtraders:8260920"
+  ],
   "observedOpenings": {},
   "evidence": [],
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
-  "statusSince": "2026-10-09T10:35:54.930Z"
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
+  "statusSince": "2026-10-14T09:31:18.625Z"
  },
  "adyen-interns": {
   "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-10-13. No earlier cycles recorded yet.",
+  "reason": "No matching listing on the monitored board as of 2026-10-14. No earlier cycles recorded yet.",
   "matchingIds": [],
   "openIds": [],
   "observedOpenings": {},
@@ -142,7 +146,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nxp-nl": {
@@ -181,12 +185,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "philips-nl": {
   "status": "OPEN NOW",
-  "reason": "19 matching listings are live on the official board.",
+  "reason": "18 matching listings are live on the official board.",
   "matchingIds": [
    "wd-philips:564816",
    "wd-philips:570478",
@@ -217,7 +221,6 @@
    "wd-philips:583463",
    "wd-philips:586187",
    "wd-philips:586188",
-   "wd-philips:586189",
    "wd-philips:587803",
    "wd-philips:588137",
    "wd-philips:590652",
@@ -277,7 +280,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "thermo-eindhoven": {
@@ -317,12 +320,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nvidia-nl-remote": {
   "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-10-13. No earlier cycles recorded yet.",
+  "reason": "No matching listing on the monitored board as of 2026-10-14. No earlier cycles recorded yet.",
   "matchingIds": [],
   "openIds": [],
   "observedOpenings": {},
@@ -330,7 +333,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "quantinuum-interns": {
@@ -412,7 +415,7 @@
   },
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "tno-internships": {
@@ -438,7 +441,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-10-13T11:48:42.014Z",
+  "lastCheckedAt": "2026-10-14T09:31:18.625Z",
   "statusSince": "2026-10-12T12:00:23.714Z"
  },
  "cpp-internships": {
