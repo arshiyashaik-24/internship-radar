@@ -1,6 +1,51 @@
 {
  "events": [
   {
+   "at": "2026-10-15T09:09:30.096Z",
+   "type": "changed",
+   "id": "gh-imc:4956547101",
+   "sourceId": "gh-imc",
+   "field": "title",
+   "from": "Machine Learning Research Intern - Summer 2027 - Sydney",
+   "to": "Deep Learning Research Intern - 2027 - Sydney",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101"
+  },
+  {
+   "at": "2026-10-15T09:09:30.096Z",
+   "type": "new",
+   "id": "lever-quantinuum:ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "sourceId": "lever-quantinuum",
+   "to": "Optics Engineering Intern - 1077",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71"
+  },
+  {
+   "at": "2026-10-15T09:09:30.096Z",
+   "type": "new",
+   "id": "wd-philips:592910",
+   "sourceId": "wd-philips",
+   "to": "TU Eindhoven Software Project",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910"
+  },
+  {
+   "at": "2026-10-15T09:09:30.096Z",
+   "type": "new",
+   "id": "page-tno:c6eed832",
+   "sourceId": "page-tno",
+   "to": "Internship | Regulatory Analysis for an Innovative Women's Health Technology",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/"
+  },
+  {
+   "at": "2026-10-15T09:09:30.096Z",
+   "type": "closed",
+   "id": "page-tno:dd514944",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-14T09:31:18.625Z",
    "type": "changed",
    "id": "gh-imc:4907430101",

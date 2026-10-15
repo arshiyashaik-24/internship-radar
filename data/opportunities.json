@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-14T09:31:18.625Z",
+ "generatedAt": "2026-10-15T09:09:30.096Z",
  "items": [
   {
    "id": "gh-databricks:6866531002",
@@ -143,8 +143,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -295,8 +295,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -445,8 +445,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -583,8 +583,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -731,8 +731,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -879,8 +879,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1016,8 +1016,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1153,8 +1153,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1301,8 +1301,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1453,8 +1453,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1602,8 +1602,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1744,8 +1744,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2024,8 +2024,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2167,8 +2167,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2314,8 +2314,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2452,8 +2452,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2597,8 +2597,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2747,8 +2747,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2900,8 +2900,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3047,8 +3047,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3183,8 +3183,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3336,8 +3336,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3489,8 +3489,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3645,8 +3645,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3804,8 +3804,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3956,8 +3956,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4103,8 +4103,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4250,8 +4250,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4388,8 +4388,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4526,8 +4526,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4668,8 +4668,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4816,8 +4816,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4967,8 +4967,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4984,7 +4984,7 @@
    "externalId": "4956547101",
    "employer": "IMC Trading",
    "programme": null,
-   "title": "Machine Learning Research Intern - Summer 2027 - Sydney",
+   "title": "Deep Learning Research Intern - 2027 - Sydney",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
    "applyUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4956547101",
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/imc/jobs/4956547101",
@@ -5038,12 +5038,7 @@
     "from": "structured"
    },
    "deadline": null,
-   "startDate": {
-    "date": "2027-07-01",
-    "precision": "season",
-    "season": "summer",
-    "evidence": "mentions summer 2027"
-   },
+   "startDate": null,
    "eligibility": {
     "label": "ineligible",
     "reasons": [
@@ -5062,11 +5057,11 @@
     "firstYearEligible": "no"
    },
    "sourceTier": 1,
-   "fingerprint": "4f1497bd",
+   "fingerprint": "7cc362e5",
    "textLength": 3539,
    "track": "summer",
    "match": {
-    "score": 68,
+    "score": 63,
     "breakdown": [
      {
       "key": "technical",
@@ -5095,10 +5090,10 @@
      {
       "key": "schedule",
       "label": "Dates and hours",
-      "points": 10,
+      "points": 5,
       "max": 10,
-      "why": "Starts summer 2027",
-      "known": true
+      "why": "Start date not stated",
+      "known": false
      },
      {
       "key": "skills",
@@ -5120,8 +5115,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5272,8 +5267,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5408,8 +5403,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5552,8 +5547,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5688,8 +5683,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5833,8 +5828,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5985,8 +5980,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6137,8 +6132,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6287,8 +6282,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6437,8 +6432,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6584,8 +6579,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6728,8 +6723,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6877,8 +6872,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7029,8 +7024,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7180,8 +7175,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7330,8 +7325,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7476,8 +7471,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7628,8 +7623,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7775,8 +7770,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7928,8 +7923,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8085,8 +8080,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8227,8 +8222,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8374,8 +8369,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8525,8 +8520,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8673,8 +8668,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8820,8 +8815,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8959,8 +8954,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9103,8 +9098,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9246,8 +9241,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9388,8 +9383,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9526,8 +9521,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9667,8 +9662,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9804,8 +9799,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9946,8 +9941,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10089,8 +10084,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10227,8 +10222,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10369,8 +10364,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10519,8 +10514,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10661,8 +10656,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10805,8 +10800,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10946,8 +10941,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11093,8 +11088,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11229,8 +11224,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11363,8 +11358,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11508,8 +11503,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11651,8 +11646,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11804,8 +11799,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11954,8 +11949,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12104,8 +12099,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12240,8 +12235,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12381,8 +12376,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12522,8 +12517,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12661,8 +12656,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12806,7 +12801,7 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-14T09:31:18.625Z",
    "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Communication---Philips_564816",
@@ -12949,8 +12944,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13023,7 +13018,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date: As soon as possible"
    },
@@ -13080,7 +13075,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -13103,8 +13098,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13169,7 +13164,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date : as soon as possible"
    },
@@ -13227,7 +13222,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -13250,8 +13245,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13392,8 +13387,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13537,8 +13532,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13764,7 +13759,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date: as soon as possible"
    },
@@ -13822,7 +13817,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -13845,8 +13840,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13911,7 +13906,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date: as soon as possible"
    },
@@ -13968,7 +13963,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -13991,8 +13986,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14134,8 +14129,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14200,7 +14195,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date: As soon as possible"
    },
@@ -14258,7 +14253,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -14281,8 +14276,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14435,8 +14430,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14588,8 +14583,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14736,8 +14731,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14884,8 +14879,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15034,8 +15029,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15100,7 +15095,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "precision": "asap",
     "evidence": "Start Date: as soon as possible"
    },
@@ -15157,7 +15152,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-14 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-15 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -15180,8 +15175,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15471,8 +15466,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15753,8 +15748,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15894,8 +15889,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16028,8 +16023,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16172,8 +16167,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16306,8 +16301,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16447,8 +16442,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16590,8 +16585,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-10T10:36:54.714Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16734,8 +16729,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-10T10:36:54.714Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16886,8 +16881,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17037,8 +17032,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17188,8 +17183,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17338,8 +17333,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17482,13 +17477,297 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
     "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
     "https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs/8260920"
+   ],
+   "status": "open",
+   "duplicateOf": null
+  },
+  {
+   "id": "lever-quantinuum:ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "sourceId": "lever-quantinuum",
+   "externalId": "ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "employer": "Quantinuum",
+   "programme": null,
+   "title": "Optics Engineering Intern - 1077",
+   "url": "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "applyUrl": "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71/apply",
+   "sourceUrl": "https://api.eu.lever.co/v0/postings/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "department": "Internships/Students",
+   "summary": "We are seeking an Optics Engineering Intern for our Broomfield, CO location. Our team of scientists is leading the way in the development of quantum computing. With full-stack technology, we’re scaling quantum computing and developing applications to solve the world’s most pressing challenges.",
+   "type": "internship",
+   "schedule": "unknown",
+   "hours": null,
+   "duration": null,
+   "fields": [
+    "comp_physics",
+    "quantum",
+    "software"
+   ],
+   "skills": {
+    "required": [
+     "Python",
+     "MATLAB",
+     "COMSOL"
+    ],
+    "preferred": []
+   },
+   "location": {
+    "text": "US Broomfield, CO",
+    "arrangement": "onsite",
+    "region": "outside_europe",
+    "isNetherlands": false,
+    "isBrainport": false,
+    "remoteRegion": null
+   },
+   "restrictions": [],
+   "compensation": {
+    "status": "paid",
+    "amount": 19,
+    "amountMax": 26,
+    "currency": "USD",
+    "period": "hour-wage",
+    "evidence": null
+   },
+   "postedAt": "2026-10-14",
+   "openingDate": {
+    "date": "2026-10-14",
+    "precision": "day",
+    "evidence": "Publication date in the application system",
+    "from": "structured"
+   },
+   "deadline": null,
+   "startDate": null,
+   "eligibility": {
+    "label": "future",
+    "reasons": [
+     "Mentions Bachelor’s students: \"Currently enrolled in a bachelor’s degree program\"",
+     "For students graduating in 2027; expected graduation is 2029."
+    ],
+    "requirements": {
+     "degreeLevels": [
+      "bachelor",
+      "master",
+      "phd"
+     ],
+     "graduationYears": [
+      2027
+     ],
+     "minStudyYear": null,
+     "minCompletedYears": null,
+     "finalYearOnly": false,
+     "experienceYears": null
+    },
+    "firstYearEligible": "no"
+   },
+   "sourceTier": 1,
+   "fingerprint": "0c54bc51",
+   "textLength": 4770,
+   "track": "summer",
+   "match": {
+    "score": 52,
+    "breakdown": [
+     {
+      "key": "technical",
+      "label": "Technical fit",
+      "points": 35,
+      "max": 35,
+      "why": "Computational Physics / Scientific R&D + Quantum Computing + Software Engineering / Algorithms (combined CS/physics/hardware profile)",
+      "known": true
+     },
+     {
+      "key": "eligibility",
+      "label": "Eligibility",
+      "points": 3.8,
+      "max": 25,
+      "why": "Mentions Bachelor’s students: \"Currently enrolled in a bachelor’s degree program\"",
+      "known": true
+     },
+     {
+      "key": "location",
+      "label": "Location",
+      "points": 0,
+      "max": 15,
+      "why": "On site in US Broomfield, CO",
+      "known": true
+     },
+     {
+      "key": "schedule",
+      "label": "Dates and hours",
+      "points": 5,
+      "max": 10,
+      "why": "Start date not stated",
+      "known": false
+     },
+     {
+      "key": "skills",
+      "label": "Skills",
+      "points": 3.3,
+      "max": 10,
+      "why": "1/3 listed skills match; not in your profile: MATLAB, COMSOL",
+      "known": true
+     },
+     {
+      "key": "compensation",
+      "label": "Pay",
+      "points": 5,
+      "max": 5,
+      "why": "Paid (USD 19–26 per hour-wage)",
+      "known": true
+     }
+    ],
+    "confidence": "high"
+   },
+   "firstSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
+   "missedRuns": 0,
+   "closedAt": null,
+   "evidenceUrls": [
+    "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71",
+    "https://api.eu.lever.co/v0/postings/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71"
+   ],
+   "status": "open",
+   "duplicateOf": null
+  },
+  {
+   "id": "wd-philips:592910",
+   "sourceId": "wd-philips",
+   "externalId": "592910",
+   "employer": "Philips",
+   "programme": null,
+   "title": "TU Eindhoven Software Project",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
+   "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
+   "sourceUrl": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
+   "department": null,
+   "summary": "Job Title TU Eindhoven Software Project Job Description As a Bachelor intern, you will contribute to a software prototyping project focused on processing and visualizing usage data from medical imaging systems.",
+   "type": "other",
+   "schedule": "part_time",
+   "hours": null,
+   "duration": null,
+   "fields": [
+    "software",
+    "medical_imaging"
+   ],
+   "skills": {
+    "required": [],
+    "preferred": []
+   },
+   "location": {
+    "text": "Best, Netherlands",
+    "arrangement": "onsite",
+    "region": "brainport",
+    "isNetherlands": true,
+    "isBrainport": true,
+    "remoteRegion": null
+   },
+   "restrictions": [],
+   "compensation": {
+    "status": "unknown",
+    "amount": null,
+    "amountMax": null,
+    "currency": null,
+    "period": null,
+    "evidence": null
+   },
+   "postedAt": "2026-10-15",
+   "openingDate": {
+    "date": "2026-10-15",
+    "precision": "day",
+    "evidence": "Publication date in the application system",
+    "from": "structured"
+   },
+   "deadline": null,
+   "startDate": null,
+   "eligibility": {
+    "label": "eligible",
+    "reasons": [
+     "Mentions Bachelor’s students: \"As a Bachelor intern, you will contribute to a software prototyping project focused on processing and visualizing usage data from medical imaging systems.\""
+    ],
+    "requirements": {
+     "degreeLevels": [
+      "bachelor"
+     ],
+     "graduationYears": [],
+     "minStudyYear": null,
+     "minCompletedYears": null,
+     "finalYearOnly": false,
+     "experienceYears": null
+    },
+    "firstYearEligible": "yes"
+   },
+   "sourceTier": 1,
+   "fingerprint": "c6598549",
+   "textLength": 1197,
+   "track": "part_time",
+   "match": {
+    "score": 88,
+    "breakdown": [
+     {
+      "key": "technical",
+      "label": "Technical fit",
+      "points": 35,
+      "max": 35,
+      "why": "Software Engineering / Algorithms + Medical Imaging / Biomedical Technology (combined CS/physics/hardware profile)",
+      "known": true
+     },
+     {
+      "key": "eligibility",
+      "label": "Eligibility",
+      "points": 25,
+      "max": 25,
+      "why": "Mentions Bachelor’s students: \"As a Bachelor intern, you will contribute to a software prototyping project focused on processing and visualizing usage data from medical imaging systems.\"",
+      "known": true
+     },
+     {
+      "key": "location",
+      "label": "Location",
+      "points": 15,
+      "max": 15,
+      "why": "On site in the Eindhoven/Brainport region",
+      "known": true
+     },
+     {
+      "key": "schedule",
+      "label": "Dates and hours",
+      "points": 5,
+      "max": 10,
+      "why": "Weekly hours not stated",
+      "known": false
+     },
+     {
+      "key": "skills",
+      "label": "Skills",
+      "points": 5,
+      "max": 10,
+      "why": "No specific tools listed",
+      "known": false
+     },
+     {
+      "key": "compensation",
+      "label": "Pay",
+      "points": 2.5,
+      "max": 5,
+      "why": "Pay not stated",
+      "known": false
+     }
+    ],
+    "confidence": "medium"
+   },
+   "firstSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
+   "missedRuns": 0,
+   "closedAt": null,
+   "evidenceUrls": [
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
+    "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910"
    ],
    "status": "open",
    "duplicateOf": null
@@ -17909,12 +18188,12 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-12T12:00:23.714Z",
    "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
-   "missedRuns": 0,
-   "closedAt": null,
+   "missedRuns": 1,
+   "closedAt": "2026-10-15T09:09:30.096Z",
    "evidenceUrls": [
     "https://www.tno.nl/en/careers/vacancies/2026/09/starter-scientist-military-cfd/"
    ],
-   "status": "open",
+   "status": "closed",
    "duplicateOf": null,
    "note": "Still online, but no longer returned by the student-role search"
   },
@@ -18048,8 +18327,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-12T12:00:23.714Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18187,8 +18466,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-12T12:00:23.714Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18467,12 +18746,151 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-12T12:00:23.714Z",
-   "lastSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastVerifiedAt": "2026-10-14T09:31:18.625Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
     "https://www.tno.nl/en/careers/vacancies/2026/09/internship-boosting-future-solar/"
+   ],
+   "status": "open",
+   "duplicateOf": null
+  },
+  {
+   "id": "page-tno:c6eed832",
+   "sourceId": "page-tno",
+   "externalId": "c6eed832",
+   "employer": "TNO",
+   "programme": null,
+   "title": "Internship | Regulatory Analysis for an Innovative Women's Health Technology",
+   "url": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/",
+   "applyUrl": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/",
+   "sourceUrl": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/",
+   "department": null,
+   "summary": "• Home • Careers • Vacancies • Internship | Regulatory Analysis for an Innovative Women's Health Technology Locatie: Leiden Werken op afstand: Hybrid Opleidingsniveau: Master Uren per week: 32-40 hours/week Vacancy 1473 Internship | Regulatory Analysis for an Innovative Women's Health Technology Make your mark on our…",
+   "type": "internship",
+   "schedule": "full_time",
+   "hours": {
+    "min": 32,
+    "max": 40,
+    "evidence": "Uren per week:\r\n32-40 h"
+   },
+   "duration": null,
+   "fields": [
+    "medical_imaging",
+    "semiconductors_hw"
+   ],
+   "skills": {
+    "required": [],
+    "preferred": []
+   },
+   "location": {
+    "text": "Netherlands",
+    "arrangement": "hybrid",
+    "region": "netherlands",
+    "isNetherlands": true,
+    "isBrainport": false,
+    "remoteRegion": null
+   },
+   "restrictions": [
+    "Are you an international student? Please note that you must have a BSN (Dutch citizen service number) before the start of your internship.",
+    "For students enrolled at a Dutch university or university of applied sciences, TNO uses the UNL-template , supplemented with several TNO‑specific agreements."
+   ],
+   "compensation": {
+    "status": "paid",
+    "amount": 615,
+    "amountMax": null,
+    "currency": "EUR",
+    "period": "month",
+    "evidence": "monthly internship allowance of € 615"
+   },
+   "postedAt": null,
+   "openingDate": null,
+   "deadline": null,
+   "startDate": null,
+   "eligibility": {
+    "label": "eligible",
+    "reasons": [
+     "Mentions Bachelor’s students: \"A monthly internship allowance of € 615 for a full-time internship, for MSc, BSc and vocational education (MBO) students.\""
+    ],
+    "requirements": {
+     "degreeLevels": [
+      "bachelor",
+      "master"
+     ],
+     "graduationYears": [],
+     "minStudyYear": null,
+     "minCompletedYears": null,
+     "finalYearOnly": false,
+     "experienceYears": null
+    },
+    "firstYearEligible": "yes"
+   },
+   "sourceTier": 2,
+   "fingerprint": "aeb49ddf",
+   "textLength": 8169,
+   "track": "summer",
+   "match": {
+    "score": 88,
+    "breakdown": [
+     {
+      "key": "technical",
+      "label": "Technical fit",
+      "points": 35,
+      "max": 35,
+      "why": "Medical Imaging / Biomedical Technology + Semiconductors / Hardware (combined CS/physics/hardware profile)",
+      "known": true
+     },
+     {
+      "key": "eligibility",
+      "label": "Eligibility",
+      "points": 25,
+      "max": 25,
+      "why": "Mentions Bachelor’s students: \"A monthly internship allowance of € 615 for a full-time internship, for MSc, BSc and vocational education (MBO) students.\"",
+      "known": true
+     },
+     {
+      "key": "location",
+      "label": "Location",
+      "points": 12.8,
+      "max": 15,
+      "why": "Hybrid in the Netherlands",
+      "known": true
+     },
+     {
+      "key": "schedule",
+      "label": "Dates and hours",
+      "points": 5,
+      "max": 10,
+      "why": "Start date not stated",
+      "known": false
+     },
+     {
+      "key": "skills",
+      "label": "Skills",
+      "points": 5,
+      "max": 10,
+      "why": "No specific tools listed",
+      "known": false
+     },
+     {
+      "key": "compensation",
+      "label": "Pay",
+      "points": 5,
+      "max": 5,
+      "why": "Paid (EUR 615 per month)",
+      "known": true
+     }
+    ],
+    "confidence": "medium"
+   },
+   "firstSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastSeenAt": "2026-10-15T09:09:30.096Z",
+   "lastVerifiedAt": "2026-10-15T09:09:30.096Z",
+   "missedRuns": 0,
+   "closedAt": null,
+   "evidenceUrls": [
+    "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/"
    ],
    "status": "open",
    "duplicateOf": null
