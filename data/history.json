@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "closed",
+   "id": "gh-imc:4823945101",
+   "sourceId": "gh-imc",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "closed",
+   "id": "gh-flowtraders:8260920",
+   "sourceId": "gh-flowtraders",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "new",
+   "id": "wd-nxp:R-10067318",
+   "sourceId": "wd-nxp",
+   "to": "AI & Future of HR Research Intern",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "new",
+   "id": "wd-nxp:R-10067328",
+   "sourceId": "wd-nxp",
+   "to": "Internship project for automotive RF substrates",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship-project-for-automotive-RF-substrates_R-10067328"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "new",
+   "id": "wd-philips:590517",
+   "sourceId": "wd-philips",
+   "to": "Grooming and Beauty Strategy & Business Development Director",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Grooming-and-Beauty-Strategy---Business-Development-Director_590517-2"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "closed",
+   "id": "wd-philips:564816",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Communication---Philips_564816",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-16T09:01:54.848Z",
+   "type": "programme_status",
+   "programmeId": "flow-amsterdam",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders"
+  },
+  {
    "at": "2026-10-15T09:09:30.096Z",
    "type": "changed",
    "id": "gh-imc:4956547101",
