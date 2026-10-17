@@ -1,6 +1,118 @@
 {
  "events": [
   {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "closed",
+   "id": "gh-imc:4927149101",
+   "sourceId": "gh-imc",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "new",
+   "id": "page-tno:c12a2c9e",
+   "sourceId": "page-tno",
+   "to": "Internship | Design of phased array in E-Band for future SATCOM applications",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-phased-array-band/"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "new",
+   "id": "page-tno:115f84df",
+   "sourceId": "page-tno",
+   "to": "Internship | Technicus Engineering Graduation Internship",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-technicus-engineering/"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "new",
+   "id": "page-tno:bfe43bfb",
+   "sourceId": "page-tno",
+   "to": "Internship | Knowledge Graphs for Infrastructure Renewal",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-knowledge-graphs/"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "closed",
+   "id": "page-tno:0837656f",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-advancing-perovskite-tandem/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "closed",
+   "id": "page-tno:68577f94",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-agent-based-modelling-bird/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "closed",
+   "id": "page-tno:e39bd80a",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-boosting-future-solar/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "closed",
+   "id": "page-tno:c6eed832",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-regulatory-analysis/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "source_failed",
+   "sourceId": "wd-nxp",
+   "reason": "robots.txt returned 503"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "source_failed",
+   "sourceId": "wd-philips",
+   "reason": "robots.txt returned 503"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "source_failed",
+   "sourceId": "wd-thermofisher",
+   "reason": "robots.txt returned 503"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "source_failed",
+   "sourceId": "wd-nvidia",
+   "reason": "robots.txt returned 503"
+  },
+  {
+   "at": "2026-10-17T08:33:53.823Z",
+   "type": "programme_status",
+   "programmeId": "nvidia-nl-remote",
+   "field": "status",
+   "from": "NOT YET ANNOUNCED",
+   "to": "STATUS UNKNOWN",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+  },
+  {
    "at": "2026-10-16T09:01:54.848Z",
    "type": "closed",
    "id": "gh-imc:4823945101",
