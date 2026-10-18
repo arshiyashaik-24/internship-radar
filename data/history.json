@@ -1,6 +1,73 @@
 {
  "events": [
   {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "new",
+   "id": "wd-philips:593360",
+   "sourceId": "wd-philips",
+   "to": "Internship: Robot-Assisted Toothbrush IMU Validation",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Robot-Assisted-Toothbrush-IMU-Validation_593360"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "new",
+   "id": "wd-philips:593359",
+   "sourceId": "wd-philips",
+   "to": "Internship: Synthetic Data Generation for Dental AI (Master)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "closed",
+   "id": "wd-philips:590652",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship---AI-Powered-Digital-Daily-Management-for-Quality-Operations_590652",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "closed",
+   "id": "wd-philips:591593",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "source_recovered",
+   "sourceId": "wd-nxp"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "source_recovered",
+   "sourceId": "wd-philips"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "source_recovered",
+   "sourceId": "wd-thermofisher"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "source_recovered",
+   "sourceId": "wd-nvidia"
+  },
+  {
+   "at": "2026-10-18T08:51:17.284Z",
+   "type": "programme_status",
+   "programmeId": "nvidia-nl-remote",
+   "field": "status",
+   "from": "STATUS UNKNOWN",
+   "to": "NOT YET ANNOUNCED",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+  },
+  {
    "at": "2026-10-17T08:33:53.823Z",
    "type": "closed",
    "id": "gh-imc:4927149101",
