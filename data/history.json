@@ -1,6 +1,39 @@
 {
  "events": [
   {
+   "at": "2026-10-19T09:54:46.491Z",
+   "type": "closed",
+   "id": "wd-philips:581630",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Intern-Consultancy-data-modelling_581630",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-19T09:54:46.491Z",
+   "type": "closed",
+   "id": "wd-philips:588137",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Change-Management--non-thesis-_588137",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-19T09:54:46.491Z",
+   "type": "closed",
+   "id": "wd-philips:592362",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Transformation-Programs-in-Personal-Health-ISC--Master--non-thesis-_592362",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
    "at": "2026-10-18T08:51:17.284Z",
    "type": "new",
    "id": "wd-philips:593360",
