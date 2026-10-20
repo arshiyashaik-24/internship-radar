@@ -1,6 +1,28 @@
 {
  "events": [
   {
+   "at": "2026-10-20T09:25:48.787Z",
+   "type": "closed",
+   "id": "wd-philips:591173",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship-Sustainability-and-Compliance-Intern--non-thesis-_591173",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-20T09:25:48.787Z",
+   "type": "closed",
+   "id": "wd-thermofisher:R-01366284",
+   "sourceId": "wd-thermofisher",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Mechatronics-Intern-Engineer_R-01366284",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-19T09:54:46.491Z",
    "type": "closed",
    "id": "wd-philips:581630",

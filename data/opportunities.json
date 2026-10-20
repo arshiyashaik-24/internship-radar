@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-19T09:54:46.491Z",
+ "generatedAt": "2026-10-20T09:25:48.787Z",
  "items": [
   {
    "id": "gh-databricks:6866531002",
@@ -143,8 +143,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -295,8 +295,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -445,8 +445,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -583,8 +583,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -731,8 +731,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -879,8 +879,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1016,8 +1016,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1153,8 +1153,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1301,8 +1301,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1453,8 +1453,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1602,8 +1602,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1744,8 +1744,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2024,8 +2024,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2167,8 +2167,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2314,8 +2314,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2452,8 +2452,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2597,8 +2597,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2747,8 +2747,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3047,8 +3047,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3183,8 +3183,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3336,8 +3336,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3489,8 +3489,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3645,8 +3645,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3804,8 +3804,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4103,8 +4103,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4250,8 +4250,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4388,8 +4388,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4526,8 +4526,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4668,8 +4668,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4816,8 +4816,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4967,8 +4967,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5115,8 +5115,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5267,8 +5267,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5403,8 +5403,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5547,8 +5547,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5683,8 +5683,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5828,8 +5828,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5980,8 +5980,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6132,8 +6132,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6282,8 +6282,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6432,8 +6432,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6579,8 +6579,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6723,8 +6723,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6872,8 +6872,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7024,8 +7024,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7175,8 +7175,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7325,8 +7325,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7471,8 +7471,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7623,8 +7623,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7770,8 +7770,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7923,8 +7923,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8080,8 +8080,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8222,8 +8222,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8369,8 +8369,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8520,8 +8520,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8668,8 +8668,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8815,8 +8815,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8954,8 +8954,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9098,8 +9098,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9241,8 +9241,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9383,8 +9383,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9521,8 +9521,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9662,8 +9662,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9799,8 +9799,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9941,8 +9941,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10084,8 +10084,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10222,8 +10222,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10364,8 +10364,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10514,8 +10514,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10656,8 +10656,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10800,8 +10800,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10941,8 +10941,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11088,8 +11088,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11226,7 +11226,7 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/PhD-Internship_R-10060562",
@@ -11360,7 +11360,7 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Intern-for-Cross-Manufacturing-Stage-Quality-Control_R-10062297",
@@ -11503,8 +11503,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11646,8 +11646,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11799,8 +11799,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11949,8 +11949,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12099,8 +12099,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12235,8 +12235,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12378,7 +12378,7 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-People-Operations-Automation_R-10066663",
@@ -12517,8 +12517,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12656,8 +12656,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12944,8 +12944,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13164,7 +13164,7 @@
    },
    "deadline": null,
    "startDate": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "precision": "asap",
     "evidence": "Start Date : as soon as possible"
    },
@@ -13222,7 +13222,7 @@
       "label": "Dates and hours",
       "points": 1,
       "max": 10,
-      "why": "Starts 2026-10-19 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "why": "Starts 2026-10-20 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
       "known": true
      },
      {
@@ -13245,8 +13245,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13387,8 +13387,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13532,8 +13532,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13842,7 +13842,7 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Commercial-Strategy---Sales--Dutch-speaking-_587803",
@@ -14278,13 +14278,13 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-18T08:51:17.284Z",
    "lastVerifiedAt": "2026-10-18T08:51:17.284Z",
-   "missedRuns": 1,
-   "closedAt": null,
+   "missedRuns": 2,
+   "closedAt": "2026-10-20T09:25:48.787Z",
    "evidenceUrls": [
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship-Sustainability-and-Compliance-Intern--non-thesis-_591173",
     "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Amsterdam/Internship-Sustainability-and-Compliance-Intern--non-thesis-_591173"
    ],
-   "status": "open",
+   "status": "closed",
    "duplicateOf": null
   },
   {
@@ -14430,8 +14430,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14731,8 +14731,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -14879,8 +14879,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15029,8 +15029,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15466,8 +15466,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15748,8 +15748,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15889,8 +15889,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16023,8 +16023,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16167,8 +16167,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16303,13 +16303,13 @@
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
-   "closedAt": null,
+   "missedRuns": 1,
+   "closedAt": "2026-10-20T09:25:48.787Z",
    "evidenceUrls": [
     "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Mechatronics-Intern-Engineer_R-01366284",
     "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/job/Eindhoven-Netherlands/Mechatronics-Intern-Engineer_R-01366284"
    ],
-   "status": "open",
+   "status": "closed",
    "duplicateOf": null
   },
   {
@@ -16442,8 +16442,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16585,8 +16585,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-10T10:36:54.714Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16729,8 +16729,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-10T10:36:54.714Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16881,8 +16881,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17032,8 +17032,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17183,8 +17183,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17333,8 +17333,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17624,8 +17624,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-15T09:09:30.096Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17763,7 +17763,7 @@
    "firstSeenAt": "2026-10-15T09:09:30.096Z",
    "lastSeenAt": "2026-10-19T09:54:46.491Z",
    "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
-   "missedRuns": 0,
+   "missedRuns": 1,
    "closedAt": null,
    "evidenceUrls": [
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
@@ -17902,8 +17902,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-16T09:01:54.848Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18034,8 +18034,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-10-16T09:01:54.848Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18171,8 +18171,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-16T09:01:54.848Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18326,8 +18326,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-18T08:51:17.284Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18485,8 +18485,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-18T08:51:17.284Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19745,8 +19745,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-17T08:33:53.823Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19886,8 +19886,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-17T08:33:53.823Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20032,8 +20032,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-17T08:33:53.823Z",
-   "lastSeenAt": "2026-10-19T09:54:46.491Z",
-   "lastVerifiedAt": "2026-10-19T09:54:46.491Z",
+   "lastSeenAt": "2026-10-20T09:25:48.787Z",
+   "lastVerifiedAt": "2026-10-20T09:25:48.787Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [

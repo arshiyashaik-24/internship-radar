@@ -1,6 +1,31 @@
 {
  "runs": [
   {
+   "id": "2026-10-20T09:25:48.787Z",
+   "startedAt": "2026-10-20T09:25:48.787Z",
+   "finishedAt": "2026-10-20T09:28:40.353Z",
+   "trigger": "schedule",
+   "status": "partial",
+   "scope": "all",
+   "sources": {
+    "ok": 11,
+    "partial": 0,
+    "failed": 1,
+    "total": 12
+   },
+   "newCount": 0,
+   "changedCount": 0,
+   "closedCount": 2,
+   "requests": 157,
+   "errors": [
+    {
+     "sourceId": "page-cpp",
+     "status": "failed",
+     "error": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+    }
+   ]
+  },
+  {
    "id": "2026-10-19T09:54:46.491Z",
    "startedAt": "2026-10-19T09:54:46.491Z",
    "finishedAt": "2026-10-19T09:57:43.726Z",
