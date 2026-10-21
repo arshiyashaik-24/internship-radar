@@ -1,6 +1,88 @@
 {
  "events": [
   {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "new",
+   "id": "gh-optiver:8901997002",
+   "sourceId": "gh-optiver",
+   "to": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "new",
+   "id": "gh-optiver:8901902002",
+   "sourceId": "gh-optiver",
+   "to": "Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)",
+   "evidence": "https://www.optiver.com/join-us/jobs/8901902002/?gh_jid=8901902002"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "gh-databricks:8732364002",
+   "sourceId": "gh-databricks",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10060562",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/PhD-Internship_R-10060562",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10062297",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Intern-for-Cross-Manufacturing-Stage-Quality-Control_R-10062297",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10066663",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship-People-Operations-Automation_R-10066663",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "wd-philips:587803",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Commercial-Strategy---Sales--Dutch-speaking-_587803",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-21T09:22:04.911Z",
+   "type": "closed",
+   "id": "wd-philips:592910",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/TU-Eindhoven-Software-Project_592910",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
    "at": "2026-10-20T09:25:48.787Z",
    "type": "closed",
    "id": "wd-philips:591173",
