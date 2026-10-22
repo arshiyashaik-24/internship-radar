@@ -1,6 +1,33 @@
 {
  "events": [
   {
+   "at": "2026-10-22T09:24:50.185Z",
+   "type": "new",
+   "id": "lever-quantinuum:6275872e-ffc4-4c29-803b-e643c5097039",
+   "sourceId": "lever-quantinuum",
+   "to": "Mechanical Engineering Intern - 1086",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/6275872e-ffc4-4c29-803b-e643c5097039"
+  },
+  {
+   "at": "2026-10-22T09:24:50.185Z",
+   "type": "new",
+   "id": "lever-quantinuum:8f05efc9-1bea-4bc0-87a3-c77485d7068e",
+   "sourceId": "lever-quantinuum",
+   "to": "Mechanical/Process Engineering Intern - 1087",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/8f05efc9-1bea-4bc0-87a3-c77485d7068e"
+  },
+  {
+   "at": "2026-10-22T09:24:50.185Z",
+   "type": "closed",
+   "id": "wd-philips:583463",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance---Accounting---Group-Consolidation---Reporting--GC-R-_583463",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
    "at": "2026-10-21T09:22:04.911Z",
    "type": "new",
    "id": "gh-optiver:8901997002",
