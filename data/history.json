@@ -1,6 +1,59 @@
 {
  "events": [
   {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "reopened",
+   "id": "gh-flowtraders:8260920",
+   "sourceId": "gh-flowtraders",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920"
+  },
+  {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "new",
+   "id": "gh-databricks:6866538002",
+   "sourceId": "gh-databricks",
+   "to": "Data Science Intern (2027 Start)",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
+  },
+  {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "changed",
+   "id": "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "sourceId": "lever-quantinuum",
+   "field": "title",
+   "from": "Internship at Quantinuum’s UK QEC team",
+   "to": "Internship at Quantinuum’s UK QEC team - 1095 / 1096",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382"
+  },
+  {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "new",
+   "id": "lever-quantinuum:782bea0b-1959-48cc-8872-1305aece51bf",
+   "sourceId": "lever-quantinuum",
+   "to": "Software Engineering Intern - 989",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf"
+  },
+  {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "closed",
+   "id": "lever-quantinuum:672bb667-0569-44bc-a2fa-a0fcd85673fb",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-23T09:21:06.979Z",
+   "type": "programme_opened",
+   "programmeId": "flow-amsterdam",
+   "field": "status",
+   "from": "CLOSED",
+   "to": "OPEN NOW",
+   "evidence": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920"
+  },
+  {
    "at": "2026-10-22T09:24:50.185Z",
    "type": "new",
    "id": "lever-quantinuum:6275872e-ffc4-4c29-803b-e643c5097039",
