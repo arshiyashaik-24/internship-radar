@@ -1,6 +1,135 @@
 {
  "events": [
   {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8401052002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8451781002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8451782002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8489582002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8604760002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8402215002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "gh-optiver:8682750002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "wd-philips:592556",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "new",
+   "id": "page-tno:4aab68c6",
+   "sourceId": "page-tno",
+   "to": "Internship | Coupling Energy System Optimisation with PowerFactory Grid Models",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-coupling-energy-system-0/"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "page-tno:115f84df",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-technicus-engineering/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "page-tno:bfe43bfb",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-knowledge-graphs/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-24T08:52:45.455Z",
+   "type": "closed",
+   "id": "page-tno:c12a2c9e",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-phased-array-band/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-23T09:21:06.979Z",
    "type": "reopened",
    "id": "gh-flowtraders:8260920",
