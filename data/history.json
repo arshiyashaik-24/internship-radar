@@ -1,6 +1,14 @@
 {
  "events": [
   {
+   "at": "2026-10-26T10:07:32.927Z",
+   "type": "new",
+   "id": "page-tno:1c202490",
+   "sourceId": "page-tno",
+   "to": "Internship | Operationalising a Mobile 3D Scanning Setup",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-operationalising-mobile-3d/"
+  },
+  {
    "at": "2026-10-24T08:52:45.455Z",
    "type": "closed",
    "id": "gh-optiver:8401052002",
