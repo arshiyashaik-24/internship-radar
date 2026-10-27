@@ -1,6 +1,45 @@
 {
  "events": [
   {
+   "at": "2026-10-27T09:49:05.116Z",
+   "type": "closed",
+   "id": "lever-quantinuum:782bea0b-1959-48cc-8872-1305aece51bf",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-27T09:49:05.116Z",
+   "type": "new",
+   "id": "wd-nvidia:JR2027942",
+   "sourceId": "wd-nvidia",
+   "to": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942"
+  },
+  {
+   "at": "2026-10-27T09:49:05.116Z",
+   "type": "closed",
+   "id": "page-tno:4aab68c6",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-coupling-energy-system-0/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-27T09:49:05.116Z",
+   "type": "programme_opened",
+   "programmeId": "nvidia-nl-remote",
+   "field": "status",
+   "from": "NOT YET ANNOUNCED",
+   "to": "OPEN NOW",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942"
+  },
+  {
    "at": "2026-10-26T10:07:32.927Z",
    "type": "new",
    "id": "page-tno:1c202490",
