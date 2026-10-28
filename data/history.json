@@ -1,6 +1,52 @@
 {
  "events": [
   {
+   "at": "2026-10-28T10:35:09.381Z",
+   "type": "new",
+   "id": "wd-nxp:R-10062367",
+   "sourceId": "wd-nxp",
+   "to": "BSc Intern position - In-Cabin Sensing for Automotive Applications at Systems Innovation Automotive (SI A)",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367"
+  },
+  {
+   "at": "2026-10-28T10:35:09.381Z",
+   "type": "closed",
+   "id": "wd-philips:592189",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Global-Health-Economics--Market-Access---Reimbursement--HEMAR--for-Hospital-Patient-Monitoring--HPM-_592189",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-28T10:35:09.381Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01358473",
+   "sourceId": "wd-thermofisher",
+   "to": "EHS Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/EHS-Intern_R-01358473"
+  },
+  {
+   "at": "2026-10-28T10:35:09.381Z",
+   "type": "new",
+   "id": "page-tno:fa2dff5f",
+   "sourceId": "page-tno",
+   "to": "Graduation Internship | Cross-lingual transfer for Dutch LLM pretraining",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-cross-lingual-transfer-dutch/"
+  },
+  {
+   "at": "2026-10-28T10:35:09.381Z",
+   "type": "closed",
+   "id": "page-tno:1c202490",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-operationalising-mobile-3d/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-27T09:49:05.116Z",
    "type": "closed",
    "id": "lever-quantinuum:782bea0b-1959-48cc-8872-1305aece51bf",
