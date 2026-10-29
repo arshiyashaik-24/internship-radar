@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "at": "2026-10-29T10:54:01.317Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10064265",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Product-Engineering--Data-Science--Machine-Learning-Analyst-_R-10064265-1",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-29T10:54:01.317Z",
+   "type": "new",
+   "id": "wd-philips:594772",
+   "sourceId": "wd-philips",
+   "to": "Internship: Philips Communications & Brand",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Philips-Communications---Brand_594772"
+  },
+  {
+   "at": "2026-10-29T10:54:01.317Z",
+   "type": "closed",
+   "id": "wd-philips:591667",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Global-Service-Operations-Program-within-Service-Enablement-Team_591667",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-29T10:54:01.317Z",
+   "type": "closed",
+   "id": "wd-philips:591964",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Intern-Service-Enablement-Team_591964",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-29T10:54:01.317Z",
+   "type": "new",
+   "id": "page-tno:5663313b",
+   "sourceId": "page-tno",
+   "to": "Internship | Design of flat lens for Antenna on Package (AoP)",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-flat-lens-antenna/"
+  },
+  {
    "at": "2026-10-28T10:35:09.381Z",
    "type": "new",
    "id": "wd-nxp:R-10062367",
