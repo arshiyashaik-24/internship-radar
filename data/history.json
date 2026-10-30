@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "at": "2026-10-30T10:52:13.024Z",
+   "type": "new",
+   "id": "gh-optiver:8905975002",
+   "sourceId": "gh-optiver",
+   "to": "Compliance Intern – Regulatory Advisory",
+   "evidence": "https://www.optiver.com/join-us/jobs/8905975002/?gh_jid=8905975002"
+  },
+  {
+   "at": "2026-10-30T10:52:13.024Z",
+   "type": "closed",
+   "id": "wd-nvidia:JR2027942",
+   "sourceId": "wd-nvidia",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-30T10:52:13.024Z",
+   "type": "programme_status",
+   "programmeId": "nvidia-nl-remote",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+  },
+  {
    "at": "2026-10-29T10:54:01.317Z",
    "type": "closed",
    "id": "wd-nxp:R-10064265",
