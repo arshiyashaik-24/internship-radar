@@ -1,6 +1,71 @@
 {
  "events": [
   {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "closed",
+   "id": "lever-quantinuum:acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "new",
+   "id": "wd-nxp:R-10064018",
+   "sourceId": "wd-nxp",
+   "to": "Internship - Design of a compact solder joint resistance sensor",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship---Design-of-a-compact-solder-joint-resistance-sensor_R-10064018"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "closed",
+   "id": "wd-philips:590517",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Grooming-and-Beauty-Strategy---Business-Development-Director_590517-2",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374116",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern Operations manufacturing",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-Operations-manufacturing_R-01374116"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374129",
+   "sourceId": "wd-thermofisher",
+   "to": "Software Engineering / AI Engineering Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01372662",
+   "sourceId": "wd-thermofisher",
+   "to": "Quality Control Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Groningen-Netherlands/Quality-Control-Intern_R-01372662-1"
+  },
+  {
+   "at": "2026-10-31T10:23:36.585Z",
+   "type": "closed",
+   "id": "wd-thermofisher:R-01366281",
+   "sourceId": "wd-thermofisher",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern---Integrating-GenAI-into-TEM-Life-Science-Applications-_R-01366281",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-10-30T10:52:13.024Z",
    "type": "new",
    "id": "gh-optiver:8905975002",
