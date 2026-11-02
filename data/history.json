@@ -1,6 +1,57 @@
 {
  "events": [
   {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "closed",
+   "id": "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "new",
+   "id": "wd-philips:594564",
+   "sourceId": "wd-philips",
+   "to": "Intern - Manufacturing People Partnering",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Intern---Manufacturing-People-Partnering_594564"
+  },
+  {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "new",
+   "id": "page-tno:277cecf7",
+   "sourceId": "page-tno",
+   "to": "Graduation Internship | Data-driven corpus mixtures for Data-Efficient LLM pretraining",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-data-driven-corpus-mixtures/"
+  },
+  {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "new",
+   "id": "page-tno:f92446ae",
+   "sourceId": "page-tno",
+   "to": "Internship | Innovative fiber optics sensor detection system design and testing",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-innovative-fiber-optics/"
+  },
+  {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "new",
+   "id": "page-tno:08c4c5c4",
+   "sourceId": "page-tno",
+   "to": "Internship | Wafer recovery for recycling from laser-delaminated solar panels",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-wafer-recovery-recycling-from/"
+  },
+  {
+   "at": "2026-11-02T12:24:39.315Z",
+   "type": "new",
+   "id": "page-tno:bac03514",
+   "sourceId": "page-tno",
+   "to": "Internship | Health-aware operation for renewable hybrid power plant",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-health-aware-operation/"
+  },
+  {
    "at": "2026-10-31T10:23:36.585Z",
    "type": "closed",
    "id": "lever-quantinuum:acec8ce5-b42e-4b16-8dc2-6ae715bfda80",
