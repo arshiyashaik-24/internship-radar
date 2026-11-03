@@ -1,6 +1,50 @@
 {
  "events": [
   {
+   "at": "2026-11-03T11:24:44.602Z",
+   "type": "closed",
+   "id": "gh-optiver:8488701002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-03T11:24:44.602Z",
+   "type": "closed",
+   "id": "page-tno:fa2dff5f",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-cross-lingual-transfer-dutch/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-03T11:24:44.602Z",
+   "type": "closed",
+   "id": "page-tno:5663313b",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-flat-lens-antenna/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-03T11:24:44.602Z",
+   "type": "closed",
+   "id": "page-tno:277cecf7",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-data-driven-corpus-mixtures/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-11-02T12:24:39.315Z",
    "type": "closed",
    "id": "lever-quantinuum:46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382",
