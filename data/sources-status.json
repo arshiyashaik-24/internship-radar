@@ -1,9 +1,9 @@
 {
  "gh-imc": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 1278,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 1252,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 24,
   "scanned": 158,
@@ -12,6 +12,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 24,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -171,10 +177,10 @@
   ]
  },
  "gh-optiver": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 1106,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 1116,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 18,
   "scanned": 159,
@@ -183,6 +189,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 18,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -342,10 +354,10 @@
   ]
  },
  "gh-flowtraders": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 1120,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 978,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 3,
   "scanned": 46,
@@ -354,6 +366,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 3,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -513,10 +531,10 @@
   ]
  },
  "gh-adyen": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 1142,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 1152,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 0,
   "scanned": 240,
@@ -525,6 +543,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 0,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -684,10 +708,10 @@
   ]
  },
  "gh-databricks": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 1452,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 1435,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 13,
   "scanned": 911,
@@ -696,6 +720,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 13,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -855,10 +885,10 @@
   ]
  },
  "lever-quantinuum": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 3768,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 2439,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 16,
   "scanned": 127,
@@ -867,6 +897,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 16,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1026,10 +1062,10 @@
   ]
  },
  "wd-nxp": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 36764,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 37436,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 12,
   "scanned": 73,
@@ -1038,6 +1074,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 12,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1197,18 +1239,24 @@
   ]
  },
  "wd-philips": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 47251,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 44166,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 7,
-  "scanned": 63,
+  "scanned": 61,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 7,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1368,18 +1416,24 @@
   ]
  },
  "wd-thermofisher": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 56845,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 58143,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 7,
-  "scanned": 65,
+  "scanned": 66,
   "lastError": null,
   "lastErrorCode": null,
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 7,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1539,10 +1593,10 @@
   ]
  },
  "wd-nvidia": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 16740,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 17275,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 0,
   "scanned": 8,
@@ -1551,6 +1605,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 0,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1710,10 +1770,10 @@
   ]
  },
  "page-tno": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "ok",
-  "durationMs": 3927,
-  "lastSuccessAt": "2026-11-03T11:24:44.602Z",
+  "durationMs": 3187,
+  "lastSuccessAt": "2026-11-03T11:56:13.203Z",
   "consecutiveFailures": 0,
   "listingsFound": 3,
   "scanned": 10,
@@ -1722,6 +1782,12 @@
   "health": "healthy",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "ok",
+    "found": 3,
+    "error": null
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "ok",
@@ -1881,15 +1947,21 @@
   ]
  },
  "page-cpp": {
-  "lastAttemptAt": "2026-11-03T11:24:44.602Z",
+  "lastAttemptAt": "2026-11-03T11:56:13.203Z",
   "lastStatus": "failed",
-  "durationMs": 1581,
-  "consecutiveFailures": 26,
+  "durationMs": 1463,
+  "consecutiveFailures": 27,
   "lastError": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript.",
   "lastErrorCode": "no_links",
   "health": "failing",
   "recovered": false,
   "history": [
+   {
+    "at": "2026-11-03T11:56:13.203Z",
+    "status": "failed",
+    "found": 0,
+    "error": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+   },
    {
     "at": "2026-11-03T11:24:44.602Z",
     "status": "failed",

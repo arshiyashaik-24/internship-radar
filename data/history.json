@@ -1,6 +1,28 @@
 {
  "events": [
   {
+   "at": "2026-11-03T11:56:13.203Z",
+   "type": "closed",
+   "id": "wd-philips:593359",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Synthetic-Data-Generation-for-Dental-AI--Master-_593359",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-11-03T11:56:13.203Z",
+   "type": "closed",
+   "id": "wd-philips:593360",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Robot-Assisted-Toothbrush-IMU-Validation_593360",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
    "at": "2026-11-03T11:24:44.602Z",
    "type": "closed",
    "id": "gh-optiver:8488701002",

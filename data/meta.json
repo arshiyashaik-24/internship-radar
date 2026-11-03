@@ -1,13 +1,13 @@
 {
  "schemaVersion": 1,
- "lastRunAt": "2026-11-03T11:24:44.602Z",
+ "lastRunAt": "2026-11-03T11:56:13.203Z",
  "lastRunStatus": "partial",
  "lastSuccessfulRunAt": null,
- "lastDataRefreshAt": "2026-11-03T11:24:44.602Z",
+ "lastDataRefreshAt": "2026-11-03T11:56:13.203Z",
  "targetCycle": 2027,
  "counts": {
   "stored": 162,
-  "open": 105,
+  "open": 103,
   "automatedSources": 12,
   "manualSources": 16
  }
