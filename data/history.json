@@ -1,6 +1,44 @@
 {
  "events": [
   {
+   "at": "2026-11-04T12:08:41.933Z",
+   "type": "new",
+   "id": "wd-philips:594948",
+   "sourceId": "wd-philips",
+   "to": "Internship Media & Influencer Marketing Personal Health BNL",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship-Media---Influencer-Marketing-Personal-Health-BNL_594948"
+  },
+  {
+   "at": "2026-11-04T12:08:41.933Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374463",
+   "sourceId": "wd-thermofisher",
+   "to": "FSP Regulatory Affairs Manager - Regulatory Intelligence MC",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Belgium/FSP-Regulatory-Affairs-Manager---Regulatory-Intelligence-MC_R-01374463"
+  },
+  {
+   "at": "2026-11-04T12:08:41.933Z",
+   "type": "closed",
+   "id": "page-tno:08c4c5c4",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-wafer-recovery-recycling-from/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-04T12:08:41.933Z",
+   "type": "closed",
+   "id": "page-tno:f92446ae",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-innovative-fiber-optics/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-11-03T11:56:13.203Z",
    "type": "closed",
    "id": "wd-philips:593359",
