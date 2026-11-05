@@ -41,7 +41,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "imc-eu-campus": {
@@ -75,7 +75,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "optiver-amsterdam": {
@@ -114,7 +114,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "flow-amsterdam": {
@@ -131,12 +131,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-23T09:21:06.979Z"
  },
  "adyen-interns": {
   "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-11-04. No earlier cycles recorded yet.",
+  "reason": "No matching listing on the monitored board as of 2026-11-05. No earlier cycles recorded yet.",
   "matchingIds": [],
   "openIds": [],
   "observedOpenings": {},
@@ -144,12 +144,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nxp-nl": {
   "status": "OPEN NOW",
-  "reason": "12 matching listings are live on the official board.",
+  "reason": "10 matching listings are live on the official board.",
   "matchingIds": [
    "wd-nxp:R-10060562",
    "wd-nxp:R-10062297",
@@ -172,8 +172,6 @@
    "wd-nxp:R-10062364",
    "wd-nxp:R-10064089",
    "wd-nxp:R-10064090",
-   "wd-nxp:R-10064264",
-   "wd-nxp:R-10065970",
    "wd-nxp:R-10067003",
    "wd-nxp:R-10067150",
    "wd-nxp:R-10067224",
@@ -187,12 +185,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "philips-nl": {
   "status": "OPEN NOW",
-  "reason": "8 matching listings are live on the official board.",
+  "reason": "7 matching listings are live on the official board.",
   "matchingIds": [
    "wd-philips:564816",
    "wd-philips:570478",
@@ -225,7 +223,6 @@
    "wd-philips:570478",
    "wd-philips:586187",
    "wd-philips:586188",
-   "wd-philips:591183",
    "wd-philips:593151",
    "wd-philips:594772",
    "wd-philips:594564",
@@ -277,12 +274,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "thermo-eindhoven": {
   "status": "OPEN NOW",
-  "reason": "7 matching listings are live on the official board.",
+  "reason": "9 matching listings are live on the official board.",
   "matchingIds": [
    "wd-thermofisher:R-01366276",
    "wd-thermofisher:R-01366281",
@@ -292,7 +289,9 @@
    "wd-thermofisher:R-01358473",
    "wd-thermofisher:R-01372662",
    "wd-thermofisher:R-01374116",
-   "wd-thermofisher:R-01374129"
+   "wd-thermofisher:R-01374129",
+   "wd-thermofisher:R-01374031",
+   "wd-thermofisher:R-01374054"
   ],
   "openIds": [
    "wd-thermofisher:R-01366276",
@@ -301,7 +300,9 @@
    "wd-thermofisher:R-01358473",
    "wd-thermofisher:R-01372662",
    "wd-thermofisher:R-01374116",
-   "wd-thermofisher:R-01374129"
+   "wd-thermofisher:R-01374129",
+   "wd-thermofisher:R-01374031",
+   "wd-thermofisher:R-01374054"
   ],
   "observedOpenings": {
    "2026": {
@@ -323,7 +324,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nvidia-nl-remote": {
@@ -353,7 +354,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-30T10:52:13.024Z"
  },
  "quantinuum-interns": {
@@ -439,7 +440,7 @@
   },
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "tno-internships": {
@@ -474,7 +475,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-04T12:08:41.933Z",
+  "lastCheckedAt": "2026-11-05T12:21:22.224Z",
   "statusSince": "2026-10-12T12:00:23.714Z"
  },
  "cpp-internships": {

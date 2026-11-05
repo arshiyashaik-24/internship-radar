@@ -1,6 +1,85 @@
 {
  "events": [
   {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "new",
+   "id": "gh-imc:4823946101",
+   "sourceId": "gh-imc",
+   "to": "Research Analyst Intern - Summer 2027",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "closed",
+   "id": "gh-imc:4842595101",
+   "sourceId": "gh-imc",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "closed",
+   "id": "gh-optiver:8905975002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8905975002/?gh_jid=8905975002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10064264",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Product-Engineering--ML-Model-Development-_R-10064264-1",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10065970",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Nijmegen/Internship---Understanding-the-reliability-of-advanced-laminate-based-electronic-packages-at-NXP_R-10065970",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "closed",
+   "id": "wd-philips:591183",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374031",
+   "sourceId": "wd-thermofisher",
+   "to": "Internship - Build an agentic software refactoring workflow",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1"
+  },
+  {
+   "at": "2026-11-05T12:21:22.224Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374054",
+   "sourceId": "wd-thermofisher",
+   "to": "Internship Position: Data Processing and Microscopy Analysis Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship-Position--Data-Processing-and-Microscopy-Analysis-Intern_R-01374054"
+  },
+  {
    "at": "2026-11-04T12:08:41.933Z",
    "type": "new",
    "id": "wd-philips:594948",
