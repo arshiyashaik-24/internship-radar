@@ -1,6 +1,56 @@
 {
  "events": [
   {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "reopened",
+   "id": "gh-imc:4842595101",
+   "sourceId": "gh-imc",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
+  },
+  {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "closed",
+   "id": "wd-nxp:R-10062364",
+   "sourceId": "wd-nxp",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/Internship----Robotics_R-10062364",
+   "reason": "Not listed on two consecutive successful checks"
+  },
+  {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "new",
+   "id": "wd-philips:594380",
+   "sourceId": "wd-philips",
+   "to": "Internship: Sustainable Healthcare Engagement (Master, non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Sustainable-Healthcare-Engagement--Master--non-thesis-_594380"
+  },
+  {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "new",
+   "id": "wd-philips:593254",
+   "sourceId": "wd-philips",
+   "to": "Internship: Li-Fi Adoption in Healthcare (non-thesis)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Li-Fi-Adoption-in-Healthcare--non-thesis-_593254"
+  },
+  {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "new",
+   "id": "wd-philips:591987",
+   "sourceId": "wd-philips",
+   "to": "Internship: EMC/EMI Test Setup for IVUS Image Interference (Master)",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--EMC-EMI-Test-Setup-for-IVUS-Image-Interference--Master-_591987"
+  },
+  {
+   "at": "2026-11-06T12:06:38.021Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374132",
+   "sourceId": "wd-thermofisher",
+   "to": "R&D associate",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Tilburg-Netherlands/R-D-associate_R-01374132"
+  },
+  {
    "at": "2026-11-05T12:21:22.224Z",
    "type": "new",
    "id": "gh-imc:4823946101",
