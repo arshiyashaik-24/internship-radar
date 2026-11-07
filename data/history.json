@@ -1,6 +1,45 @@
 {
  "events": [
   {
+   "at": "2026-11-07T11:03:57.028Z",
+   "type": "closed",
+   "id": "gh-imc:4941380101",
+   "sourceId": "gh-imc",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4941380101",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-07T11:03:57.028Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374130",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern - Autonomous Lab Concept Development for an Electron Microscope",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern---Autonomous-Lab-Concept-Development-for-an-Electron-Microscope_R-01374130"
+  },
+  {
+   "at": "2026-11-07T11:03:57.028Z",
+   "type": "closed",
+   "id": "page-tno:bac03514",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-health-aware-operation/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-07T11:03:57.028Z",
+   "type": "programme_status",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://www.tno.nl/en/careers/graduates/"
+  },
+  {
    "at": "2026-11-06T12:06:38.021Z",
    "type": "reopened",
    "id": "gh-imc:4842595101",
