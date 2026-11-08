@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "lastRunAt": "2026-11-07T11:03:57.028Z",
+ "lastRunAt": "2026-11-08T11:17:11.385Z",
  "lastRunStatus": "partial",
  "lastSuccessfulRunAt": null,
- "lastDataRefreshAt": "2026-11-07T11:03:57.028Z",
+ "lastDataRefreshAt": "2026-11-08T11:17:11.385Z",
  "targetCycle": 2027,
  "counts": {
   "stored": 172,
