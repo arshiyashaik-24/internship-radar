@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "closed",
+   "id": "gh-optiver:8732789002",
+   "sourceId": "gh-optiver",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.optiver.com/join-us/jobs/8732789002/?gh_jid=8732789002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "closed",
+   "id": "gh-databricks:7011263002",
+   "sourceId": "gh-databricks",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "new",
+   "id": "page-tno:9ada95c6",
+   "sourceId": "page-tno",
+   "to": "Graduation internship (re-opened) | Aerodynamic effects of wing damage",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-aerodynamic-effects-wing/"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "new",
+   "id": "page-tno:5905164f",
+   "sourceId": "page-tno",
+   "to": "Internship | Materials for Electrocatalytic CO₂ Reduction",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-materials-electrocatalytic-co/"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "new",
+   "id": "page-tno:f7f82d87",
+   "sourceId": "page-tno",
+   "to": "Internship | PFAS Free Firefighting Foam",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-pfas-free-firefighting-foam/"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "new",
+   "id": "page-tno:484c26fd",
+   "sourceId": "page-tno",
+   "to": "Internship | Generative models for intraday electricity prices",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-generative-models-intraday/"
+  },
+  {
+   "at": "2026-11-09T12:52:33.120Z",
+   "type": "programme_opened",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "CLOSED",
+   "to": "OPEN NOW",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-generative-models-intraday/"
+  },
+  {
    "at": "2026-11-08T11:17:11.385Z",
    "type": "source_failed",
    "sourceId": "wd-nxp",
