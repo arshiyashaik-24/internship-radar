@@ -1,6 +1,70 @@
 {
  "events": [
   {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "closed",
+   "id": "lever-quantinuum:5e7f7fba-41e1-454c-8985-30f7558095a2",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/5e7f7fba-41e1-454c-8985-30f7558095a2",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "closed",
+   "id": "lever-quantinuum:ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "closed",
+   "id": "lever-quantinuum:6275872e-ffc4-4c29-803b-e643c5097039",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/6275872e-ffc4-4c29-803b-e643c5097039",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "new",
+   "id": "wd-philips:594239",
+   "sourceId": "wd-philips",
+   "to": "Internship: Sustainability Requirements Management & Digital Transformation",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Sustainability-Requirements-Management---Digital-Transformation_594239"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "reopened",
+   "id": "wd-philips:592556",
+   "sourceId": "wd-philips",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "new",
+   "id": "wd-philips:593870",
+   "sourceId": "wd-philips",
+   "to": "Developer Pulse Programming Clinical MRI",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Developer-Pulse-Programming-Clinical-MRI_593870-1"
+  },
+  {
+   "at": "2026-11-10T12:39:20.276Z",
+   "type": "new",
+   "id": "wd-philips:593809",
+   "sourceId": "wd-philips",
+   "to": "Reconstruction Algorithms Developer - MRI",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Reconstruction-Algorithms-Developer---MRI_593809-1"
+  },
+  {
    "at": "2026-11-09T12:52:33.120Z",
    "type": "closed",
    "id": "gh-optiver:8732789002",
