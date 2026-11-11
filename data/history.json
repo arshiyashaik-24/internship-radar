@@ -1,6 +1,40 @@
 {
  "events": [
   {
+   "at": "2026-11-11T11:52:45.086Z",
+   "type": "new",
+   "id": "wd-philips:594858",
+   "sourceId": "wd-philips",
+   "to": "Internship: Finance Business Partner",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858"
+  },
+  {
+   "at": "2026-11-11T11:52:45.086Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374045",
+   "sourceId": "wd-thermofisher",
+   "to": "Sr. GenAI Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1"
+  },
+  {
+   "at": "2026-11-11T11:52:45.086Z",
+   "type": "reopened",
+   "id": "page-tno:c12a2c9e",
+   "sourceId": "page-tno",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-phased-array-band/"
+  },
+  {
+   "at": "2026-11-11T11:52:45.086Z",
+   "type": "closed",
+   "id": "page-tno:9ada95c6",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-aerodynamic-effects-wing/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-11-10T12:39:20.276Z",
    "type": "closed",
    "id": "lever-quantinuum:5e7f7fba-41e1-454c-8985-30f7558095a2",

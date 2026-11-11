@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-10T12:39:20.276Z",
+ "generatedAt": "2026-11-11T11:52:45.086Z",
  "items": [
   {
    "id": "gh-databricks:6866531002",
@@ -143,8 +143,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -295,8 +295,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -445,8 +445,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -731,8 +731,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -879,8 +879,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1016,8 +1016,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1153,8 +1153,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1453,8 +1453,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1602,8 +1602,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -1744,8 +1744,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2024,8 +2024,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2167,8 +2167,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2314,8 +2314,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2452,8 +2452,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2597,8 +2597,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -2749,8 +2749,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3049,8 +3049,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3185,8 +3185,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3338,8 +3338,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3491,8 +3491,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3647,8 +3647,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -3806,8 +3806,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4105,8 +4105,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4252,8 +4252,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4390,8 +4390,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4528,8 +4528,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4670,8 +4670,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -4818,8 +4818,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5117,8 +5117,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5269,8 +5269,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5405,8 +5405,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5549,8 +5549,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5685,8 +5685,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -5830,8 +5830,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6134,8 +6134,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -6581,8 +6581,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7177,8 +7177,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7327,8 +7327,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7473,8 +7473,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7625,8 +7625,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7772,8 +7772,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -7925,8 +7925,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8082,8 +8082,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8224,8 +8224,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8371,8 +8371,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8522,8 +8522,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8670,8 +8670,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -8956,8 +8956,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9524,8 +9524,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9665,8 +9665,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9802,8 +9802,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -9944,8 +9944,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10225,8 +10225,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10367,8 +10367,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10517,8 +10517,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10659,8 +10659,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10803,8 +10803,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -10944,8 +10944,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -11091,8 +11091,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -12947,8 +12947,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13390,8 +13390,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -13535,8 +13535,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15469,8 +15469,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15751,8 +15751,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -15892,8 +15892,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16170,8 +16170,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16445,8 +16445,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-09T10:35:54.930Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16588,8 +16588,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-10T10:36:54.714Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -16884,8 +16884,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-13T11:48:42.014Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17336,8 +17336,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -17480,8 +17480,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-14T09:31:18.625Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18639,8 +18639,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-21T09:22:04.911Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -18796,8 +18796,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-21T09:22:04.911Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19086,8 +19086,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-22T09:24:50.185Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19238,8 +19238,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-23T09:21:06.979Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19813,8 +19813,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-10-28T10:35:09.381Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -19956,8 +19956,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-29T10:54:01.317Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20363,8 +20363,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-10-31T10:23:36.585Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20498,8 +20498,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-10-31T10:23:36.585Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20640,8 +20640,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-10-31T10:23:36.585Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20786,8 +20786,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-02T12:24:39.315Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -20929,8 +20929,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-04T12:08:41.933Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21066,8 +21066,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-04T12:08:41.933Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21212,8 +21212,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-05T12:21:22.224Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21347,8 +21347,8 @@
     "confidence": "low"
    },
    "firstSeenAt": "2026-11-05T12:21:22.224Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21490,8 +21490,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-05T12:21:22.224Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21638,8 +21638,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-06T12:06:38.021Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21788,8 +21788,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-06T12:06:38.021Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -21936,8 +21936,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-06T12:06:38.021Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -22073,8 +22073,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-06T12:06:38.021Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -22212,8 +22212,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-07T11:03:57.028Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -22357,8 +22357,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -22500,8 +22500,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -22649,13 +22649,304 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Sustainability-Requirements-Management---Digital-Transformation_594239",
     "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Eindhoven/Internship--Sustainability-Requirements-Management---Digital-Transformation_594239"
+   ],
+   "status": "open",
+   "duplicateOf": null
+  },
+  {
+   "id": "wd-philips:594858",
+   "sourceId": "wd-philips",
+   "externalId": "594858",
+   "employer": "Philips",
+   "programme": null,
+   "title": "Internship: Finance Business Partner",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858",
+   "applyUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858",
+   "sourceUrl": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858",
+   "department": null,
+   "summary": "Job Title Internship: Finance Business Partner Job Description Start Date: February/March 2027 Duration: 6 months Type: Internship (thesis possible) Weekly Presence: 40h (minimum 32h) Location: Amsterdam (3x per week) In this role, you have the opportunity to gain experience assisting Finance Business Partners for the…",
+   "type": "internship",
+   "schedule": "full_time",
+   "hours": {
+    "min": 32,
+    "max": 40,
+    "evidence": "Weekly Presence: 40h (minimum 32h)"
+   },
+   "duration": {
+    "minMonths": 6,
+    "maxMonths": 6,
+    "evidence": "Duration: 6 months"
+   },
+   "fields": [
+    "medical_imaging"
+   ],
+   "skills": {
+    "required": [],
+    "preferred": []
+   },
+   "location": {
+    "text": "Amsterdam, Netherlands",
+    "arrangement": "onsite",
+    "region": "netherlands",
+    "isNetherlands": true,
+    "isBrainport": false,
+    "remoteRegion": null
+   },
+   "restrictions": [],
+   "compensation": {
+    "status": "paid",
+    "amount": 500,
+    "amountMax": 700,
+    "currency": "EUR",
+    "period": "month",
+    "evidence": "Monthly full-time allowance between €500 - €700"
+   },
+   "postedAt": "2026-11-11",
+   "openingDate": {
+    "date": "2026-11-11",
+    "precision": "day",
+    "evidence": "Publication date in the application system",
+    "from": "structured"
+   },
+   "deadline": null,
+   "startDate": {
+    "date": "2027-03-01",
+    "precision": "month",
+    "evidence": "Start Date: February/March 2027"
+   },
+   "eligibility": {
+    "label": "eligible",
+    "reasons": [
+     "Mentions Bachelor’s students: \"You are currently pursuing your Bachelor or Master (BSc/MSc), in Finance, Controlling , (Technical) Business Administration or related education .\""
+    ],
+    "requirements": {
+     "degreeLevels": [
+      "bachelor",
+      "master"
+     ],
+     "graduationYears": [],
+     "minStudyYear": null,
+     "minCompletedYears": null,
+     "finalYearOnly": false,
+     "experienceYears": null
+    },
+    "firstYearEligible": "yes"
+   },
+   "sourceTier": 1,
+   "fingerprint": "eb87eb72",
+   "textLength": 3609,
+   "track": "summer",
+   "match": {
+    "score": 73,
+    "breakdown": [
+     {
+      "key": "technical",
+      "label": "Technical fit",
+      "points": 24.5,
+      "max": 35,
+      "why": "Medical Imaging / Biomedical Technology",
+      "known": true
+     },
+     {
+      "key": "eligibility",
+      "label": "Eligibility",
+      "points": 25,
+      "max": 25,
+      "why": "Mentions Bachelor’s students: \"You are currently pursuing your Bachelor or Master (BSc/MSc), in Finance, Controlling , (Technical) Business Administration or related education .\"",
+      "known": true
+     },
+     {
+      "key": "location",
+      "label": "Location",
+      "points": 12.8,
+      "max": 15,
+      "why": "On site in the Netherlands",
+      "known": true
+     },
+     {
+      "key": "schedule",
+      "label": "Dates and hours",
+      "points": 1,
+      "max": 10,
+      "why": "Starts 2027-03-01 (outside 2027-07-01 – 2027-09-30); needs at least 6 months",
+      "known": true
+     },
+     {
+      "key": "skills",
+      "label": "Skills",
+      "points": 5,
+      "max": 10,
+      "why": "No specific tools listed",
+      "known": false
+     },
+     {
+      "key": "compensation",
+      "label": "Pay",
+      "points": 5,
+      "max": 5,
+      "why": "Paid (EUR 500–700 per month)",
+      "known": true
+     }
+    ],
+    "confidence": "high"
+   },
+   "firstSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
+   "missedRuns": 0,
+   "closedAt": null,
+   "evidenceUrls": [
+    "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858",
+    "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/job/Amsterdam/Internship--Finance-Business-Partner_594858"
+   ],
+   "status": "open",
+   "duplicateOf": null
+  },
+  {
+   "id": "wd-thermofisher:R-01374045",
+   "sourceId": "wd-thermofisher",
+   "externalId": "R-01374045",
+   "employer": "Thermo Fisher Scientific",
+   "programme": null,
+   "title": "Sr. GenAI Intern",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1",
+   "applyUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1",
+   "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1",
+   "department": null,
+   "summary": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description When you’re part of the team at Thermo Fisher Scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment or making sure our food is safe.",
+   "type": "internship",
+   "schedule": "full_time",
+   "hours": null,
+   "duration": {
+    "minMonths": 6,
+    "maxMonths": 12,
+    "evidence": "6-12 month"
+   },
+   "fields": [
+    "ai_ml_cv"
+   ],
+   "skills": {
+    "required": [],
+    "preferred": []
+   },
+   "location": {
+    "text": "Eindhoven, Netherlands",
+    "arrangement": "onsite",
+    "region": "brainport",
+    "isNetherlands": true,
+    "isBrainport": true,
+    "remoteRegion": null
+   },
+   "restrictions": [
+    "To qualify, applicants must be legally authorized to work in the Country indicated for the opportunity they are applying to by either confirming Citizenship or the right to work."
+   ],
+   "compensation": {
+    "status": "unknown",
+    "amount": null,
+    "amountMax": null,
+    "currency": null,
+    "period": null,
+    "evidence": null
+   },
+   "postedAt": "2026-11-10",
+   "openingDate": {
+    "date": "2026-11-10",
+    "precision": "day",
+    "evidence": "Publication date in the application system",
+    "from": "structured"
+   },
+   "deadline": null,
+   "startDate": null,
+   "eligibility": {
+    "label": "ineligible",
+    "reasons": [
+     "Asks for Master's-level students: \"Graduate student completing a Master's degree in AI / Scientific subject.\""
+    ],
+    "requirements": {
+     "degreeLevels": [
+      "master"
+     ],
+     "graduationYears": [],
+     "minStudyYear": null,
+     "minCompletedYears": null,
+     "finalYearOnly": false,
+     "experienceYears": 0
+    },
+    "firstYearEligible": "no"
+   },
+   "sourceTier": 1,
+   "fingerprint": "0801b475",
+   "textLength": 2544,
+   "track": "summer",
+   "match": {
+    "score": 51,
+    "breakdown": [
+     {
+      "key": "technical",
+      "label": "Technical fit",
+      "points": 24.5,
+      "max": 35,
+      "why": "AI / ML / Computer Vision",
+      "known": true
+     },
+     {
+      "key": "eligibility",
+      "label": "Eligibility",
+      "points": 0,
+      "max": 25,
+      "why": "Asks for Master's-level students: \"Graduate student completing a Master's degree in AI / Scientific subject.\"",
+      "known": true
+     },
+     {
+      "key": "location",
+      "label": "Location",
+      "points": 15,
+      "max": 15,
+      "why": "On site in the Eindhoven/Brainport region",
+      "known": true
+     },
+     {
+      "key": "schedule",
+      "label": "Dates and hours",
+      "points": 3.5,
+      "max": 10,
+      "why": "Start date not stated; needs at least 6 months",
+      "known": true
+     },
+     {
+      "key": "skills",
+      "label": "Skills",
+      "points": 5,
+      "max": 10,
+      "why": "No specific tools listed",
+      "known": false
+     },
+     {
+      "key": "compensation",
+      "label": "Pay",
+      "points": 2.5,
+      "max": 5,
+      "why": "Pay not stated",
+      "known": false
+     }
+    ],
+    "confidence": "medium"
+   },
+   "firstSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
+   "missedRuns": 0,
+   "closedAt": null,
+   "evidenceUrls": [
+    "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1",
+    "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-GenAI-Intern_R-01374045-1"
    ],
    "status": "open",
    "duplicateOf": null
@@ -24139,7 +24430,7 @@
    },
    "sourceTier": 2,
    "fingerprint": "5903881b",
-   "textLength": 10006,
+   "textLength": 9928,
    "track": "summer",
    "match": {
     "score": 77,
@@ -24196,14 +24487,14 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-10-17T08:33:53.823Z",
-   "lastSeenAt": "2026-10-23T09:21:06.979Z",
-   "lastVerifiedAt": "2026-10-23T09:21:06.979Z",
-   "missedRuns": 1,
-   "closedAt": "2026-10-24T08:52:45.455Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
+   "missedRuns": 0,
+   "closedAt": null,
    "evidenceUrls": [
     "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-phased-array-band/"
    ],
-   "status": "closed",
+   "status": "open",
    "duplicateOf": null
   },
   {
@@ -25486,8 +25777,8 @@
     "confidence": "high"
    },
    "firstSeenAt": "2026-11-09T12:52:33.120Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -25626,8 +25917,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-09T12:52:33.120Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
@@ -25771,12 +26062,12 @@
    "firstSeenAt": "2026-11-09T12:52:33.120Z",
    "lastSeenAt": "2026-11-10T12:39:20.276Z",
    "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
-   "missedRuns": 0,
-   "closedAt": null,
+   "missedRuns": 1,
+   "closedAt": "2026-11-11T11:52:45.086Z",
    "evidenceUrls": [
     "https://www.tno.nl/en/careers/vacancies/2026/09/internship-aerodynamic-effects-wing/"
    ],
-   "status": "open",
+   "status": "closed",
    "duplicateOf": null
   },
   {
@@ -25909,8 +26200,8 @@
     "confidence": "medium"
    },
    "firstSeenAt": "2026-11-09T12:52:33.120Z",
-   "lastSeenAt": "2026-11-10T12:39:20.276Z",
-   "lastVerifiedAt": "2026-11-10T12:39:20.276Z",
+   "lastSeenAt": "2026-11-11T11:52:45.086Z",
+   "lastVerifiedAt": "2026-11-11T11:52:45.086Z",
    "missedRuns": 0,
    "closedAt": null,
    "evidenceUrls": [
