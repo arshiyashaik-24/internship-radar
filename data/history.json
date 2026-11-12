@@ -1,6 +1,49 @@
 {
  "events": [
   {
+   "at": "2026-11-12T12:43:16.011Z",
+   "type": "closed",
+   "id": "lever-quantinuum:0540d133-27ae-427e-ab4e-1f56a7bcd884",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/0540d133-27ae-427e-ab4e-1f56a7bcd884",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-12T12:43:16.011Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374113",
+   "sourceId": "wd-thermofisher",
+   "to": "Internship: GenAI-Assisted Software Modernization",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1"
+  },
+  {
+   "at": "2026-11-12T12:43:16.011Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374115",
+   "sourceId": "wd-thermofisher",
+   "to": "Sr. digital science intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-digital-science-intern_R-01374115"
+  },
+  {
+   "at": "2026-11-12T12:43:16.011Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374668",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern_R-01374668"
+  },
+  {
+   "at": "2026-11-12T12:43:16.011Z",
+   "type": "new",
+   "id": "page-tno:e522e794",
+   "sourceId": "page-tno",
+   "to": "Graduation Internship | Recruitment, Retention and Advancement of Women in the Armed Forces",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/graduation-internship-recruitment/"
+  },
+  {
    "at": "2026-11-11T11:52:45.086Z",
    "type": "new",
    "id": "wd-philips:594858",
