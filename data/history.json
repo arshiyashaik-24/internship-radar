@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "closed",
+   "id": "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552",
+   "sourceId": "lever-quantinuum",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "new",
+   "id": "wd-philips:594588",
+   "sourceId": "wd-philips",
+   "to": "Head of Research",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Head-of-Research_594588-2"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "new",
+   "id": "page-tno:2f5ec9ed",
+   "sourceId": "page-tno",
+   "to": "Graduation Internship | AI-based 6G RAN capacity management",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/07/internship-agentic-decision-support/"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "closed",
+   "id": "page-tno:484c26fd",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-generative-models-intraday/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "closed",
+   "id": "page-tno:5905164f",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-materials-electrocatalytic-co/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "closed",
+   "id": "page-tno:f7f82d87",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/internship-pfas-free-firefighting-foam/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "source_failed",
+   "sourceId": "wd-thermofisher",
+   "reason": "robots.txt returned 503"
+  },
+  {
+   "at": "2026-11-14T11:28:05.748Z",
+   "type": "source_failed",
+   "sourceId": "wd-nvidia",
+   "reason": "robots.txt returned 503"
+  },
+  {
    "at": "2026-11-12T12:43:16.011Z",
    "type": "closed",
    "id": "lever-quantinuum:0540d133-27ae-427e-ab4e-1f56a7bcd884",

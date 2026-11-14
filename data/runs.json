@@ -1,6 +1,46 @@
 {
  "runs": [
   {
+   "id": "2026-11-14T11:28:05.748Z",
+   "startedAt": "2026-11-14T11:28:05.748Z",
+   "finishedAt": "2026-11-14T11:29:13.842Z",
+   "trigger": "schedule",
+   "status": "partial",
+   "scope": "all",
+   "sources": {
+    "ok": 8,
+    "partial": 0,
+    "failed": 4,
+    "total": 12
+   },
+   "newCount": 2,
+   "changedCount": 0,
+   "closedCount": 4,
+   "requests": 62,
+   "errors": [
+    {
+     "sourceId": "wd-nxp",
+     "status": "failed",
+     "error": "HTTP 422 Unprocessable Entity"
+    },
+    {
+     "sourceId": "wd-thermofisher",
+     "status": "failed",
+     "error": "robots.txt returned 503"
+    },
+    {
+     "sourceId": "wd-nvidia",
+     "status": "failed",
+     "error": "robots.txt returned 503"
+    },
+    {
+     "sourceId": "page-cpp",
+     "status": "failed",
+     "error": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+    }
+   ]
+  },
+  {
    "id": "2026-11-13T12:12:44.077Z",
    "startedAt": "2026-11-13T12:12:44.077Z",
    "finishedAt": "2026-11-13T12:15:39.024Z",
