@@ -1,6 +1,16 @@
 {
  "events": [
   {
+   "at": "2026-11-15T11:57:14.997Z",
+   "type": "source_recovered",
+   "sourceId": "wd-thermofisher"
+  },
+  {
+   "at": "2026-11-15T11:57:14.997Z",
+   "type": "source_recovered",
+   "sourceId": "wd-nvidia"
+  },
+  {
    "at": "2026-11-14T11:28:05.748Z",
    "type": "closed",
    "id": "lever-quantinuum:fcceecb2-58fb-4f34-8956-6fc148adf552",
