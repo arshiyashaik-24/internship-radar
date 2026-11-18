@@ -1,6 +1,28 @@
 {
  "events": [
   {
+   "at": "2026-11-18T13:02:56.463Z",
+   "type": "closed",
+   "id": "page-tno:c12a2c9e",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/08/internship-design-phased-array-band/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-18T13:02:56.463Z",
+   "type": "closed",
+   "id": "page-tno:e522e794",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/10/graduation-internship-recruitment/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-11-16T12:45:45.766Z",
    "type": "new",
    "id": "gh-imc:5036428101",
