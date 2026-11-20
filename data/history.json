@@ -1,6 +1,33 @@
 {
  "events": [
   {
+   "at": "2026-11-20T12:53:32.990Z",
+   "type": "reopened",
+   "id": "gh-databricks:7011263002",
+   "sourceId": "gh-databricks",
+   "evidence": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+  },
+  {
+   "at": "2026-11-20T12:53:32.990Z",
+   "type": "closed",
+   "id": "page-tno:2f5ec9ed",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/07/internship-agentic-decision-support/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-20T12:53:32.990Z",
+   "type": "programme_status",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://www.tno.nl/en/careers/graduates/"
+  },
+  {
    "at": "2026-11-18T13:02:56.463Z",
    "type": "closed",
    "id": "page-tno:c12a2c9e",
