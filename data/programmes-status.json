@@ -40,7 +40,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "imc-eu-campus": {
@@ -72,7 +72,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "optiver-amsterdam": {
@@ -111,7 +111,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "flow-amsterdam": {
@@ -128,12 +128,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-23T09:21:06.979Z"
  },
  "adyen-interns": {
   "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-11-20. No earlier cycles recorded yet.",
+  "reason": "No matching listing on the monitored board as of 2026-11-21. No earlier cycles recorded yet.",
   "matchingIds": [],
   "openIds": [],
   "observedOpenings": {},
@@ -141,7 +141,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nxp-nl": {
@@ -452,7 +452,7 @@
   },
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "tno-internships": {
@@ -491,7 +491,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-20T12:53:32.990Z",
+  "lastCheckedAt": "2026-11-21T12:39:30.679Z",
   "statusSince": "2026-11-20T12:53:32.990Z"
  },
  "cpp-internships": {
