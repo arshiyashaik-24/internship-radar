@@ -40,7 +40,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "imc-eu-campus": {
@@ -72,7 +72,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "optiver-amsterdam": {
@@ -111,7 +111,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "flow-amsterdam": {
@@ -128,12 +128,12 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-23T09:21:06.979Z"
  },
  "adyen-interns": {
   "status": "NOT YET ANNOUNCED",
-  "reason": "No matching listing on the monitored board as of 2026-11-22. No earlier cycles recorded yet.",
+  "reason": "No matching listing on the monitored board as of 2026-11-23. No earlier cycles recorded yet.",
   "matchingIds": [],
   "openIds": [],
   "observedOpenings": {},
@@ -141,7 +141,7 @@
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "nxp-nl": {
@@ -452,12 +452,12 @@
   },
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
   "statusSince": "2026-10-09T10:35:54.930Z"
  },
  "tno-internships": {
-  "status": "CLOSED",
-  "reason": "Previously seen listings have been taken down.",
+  "status": "OPEN NOW",
+  "reason": "2 matching listings are live on the official board.",
   "matchingIds": [
    "page-tno:0432e5f5",
    "page-tno:d33c2a8b",
@@ -483,16 +483,20 @@
    "page-tno:9ada95c6",
    "page-tno:f7f82d87",
    "page-tno:e522e794",
-   "page-tno:2f5ec9ed"
+   "page-tno:2f5ec9ed",
+   "page-tno:5a57bbdd"
   ],
-  "openIds": [],
+  "openIds": [
+   "page-tno:0432e5f5",
+   "page-tno:5a57bbdd"
+  ],
   "observedOpenings": {},
   "evidence": [],
   "prediction": null,
   "announced": null,
   "daysUntilOpening": null,
-  "lastCheckedAt": "2026-11-22T12:35:32.543Z",
-  "statusSince": "2026-11-20T12:53:32.990Z"
+  "lastCheckedAt": "2026-11-23T14:39:21.689Z",
+  "statusSince": "2026-11-23T14:39:21.689Z"
  },
  "cpp-internships": {
   "status": "STATUS UNKNOWN",

@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "at": "2026-11-23T14:39:21.689Z",
+   "type": "new",
+   "id": "page-tno:5a57bbdd",
+   "sourceId": "page-tno",
+   "to": "Graduation internship | MMIC/RFIC design",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/11/graduation-internship-mmic-rfic-design/"
+  },
+  {
+   "at": "2026-11-23T14:39:21.689Z",
+   "type": "reopened",
+   "id": "page-tno:0432e5f5",
+   "sourceId": "page-tno",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-oxygen-activation-second/"
+  },
+  {
+   "at": "2026-11-23T14:39:21.689Z",
+   "type": "programme_opened",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "CLOSED",
+   "to": "OPEN NOW",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-oxygen-activation-second/"
+  },
+  {
    "at": "2026-11-20T12:53:32.990Z",
    "type": "reopened",
    "id": "gh-databricks:7011263002",
