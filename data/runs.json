@@ -1,6 +1,51 @@
 {
  "runs": [
   {
+   "id": "2026-11-25T14:22:21.318Z",
+   "startedAt": "2026-11-25T14:22:21.318Z",
+   "finishedAt": "2026-11-25T14:23:29.282Z",
+   "trigger": "schedule",
+   "status": "partial",
+   "scope": "all",
+   "sources": {
+    "ok": 7,
+    "partial": 0,
+    "failed": 5,
+    "total": 12
+   },
+   "newCount": 1,
+   "changedCount": 0,
+   "closedCount": 0,
+   "requests": 34,
+   "errors": [
+    {
+     "sourceId": "wd-nxp",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-philips",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-thermofisher",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-nvidia",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "page-cpp",
+     "status": "failed",
+     "error": "HTTP 403 Forbidden"
+    }
+   ]
+  },
+  {
    "id": "2026-11-24T14:53:01.128Z",
    "startedAt": "2026-11-24T14:53:01.128Z",
    "finishedAt": "2026-11-24T15:03:51.745Z",
