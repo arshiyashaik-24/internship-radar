@@ -1,6 +1,17 @@
 {
  "events": [
   {
+   "at": "2026-11-26T13:54:06.564Z",
+   "type": "closed",
+   "id": "gh-imc:4982344101",
+   "sourceId": "gh-imc",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://job-boards.eu.greenhouse.io/imc/jobs/4982344101",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
    "at": "2026-11-25T14:22:21.318Z",
    "type": "new",
    "id": "gh-imc:4982344101",
