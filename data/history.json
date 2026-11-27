@@ -1,6 +1,35 @@
 {
  "events": [
   {
+   "at": "2026-11-27T13:51:51.981Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374133",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern, QA associate",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Tilburg-Netherlands/Intern--QA-associate_R-01374133"
+  },
+  {
+   "at": "2026-11-27T13:51:51.981Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374127",
+   "sourceId": "wd-thermofisher",
+   "to": "Sr. Intern, R&D",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Sr-Intern--R-D_R-01374127"
+  },
+  {
+   "at": "2026-11-27T13:51:51.981Z",
+   "type": "new",
+   "id": "wd-thermofisher:R-01374128",
+   "sourceId": "wd-thermofisher",
+   "to": "Intern assignment: Image quality improvement of direct detection cameras",
+   "evidence": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern-assignment--Image-quality-improvement-of-direct-detection-cameras_R-01374128"
+  },
+  {
+   "at": "2026-11-27T13:51:51.981Z",
+   "type": "source_recovered",
+   "sourceId": "wd-thermofisher"
+  },
+  {
    "at": "2026-11-26T13:54:06.564Z",
    "type": "closed",
    "id": "gh-imc:4982344101",
