@@ -1,6 +1,51 @@
 {
  "runs": [
   {
+   "id": "2026-11-28T12:59:12.811Z",
+   "startedAt": "2026-11-28T12:59:12.811Z",
+   "finishedAt": "2026-11-28T13:00:20.872Z",
+   "trigger": "schedule",
+   "status": "partial",
+   "scope": "all",
+   "sources": {
+    "ok": 7,
+    "partial": 0,
+    "failed": 5,
+    "total": 12
+   },
+   "newCount": 0,
+   "changedCount": 2,
+   "closedCount": 1,
+   "requests": 35,
+   "errors": [
+    {
+     "sourceId": "wd-nxp",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-philips",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-thermofisher",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "wd-nvidia",
+     "status": "failed",
+     "error": "HTTP 429 Too Many Requests"
+    },
+    {
+     "sourceId": "page-cpp",
+     "status": "failed",
+     "error": "No vacancy links matched the pattern on https://jobs.cpp.canon/search/?locale=en_GB&optionsFacetsDD_customfield3=Internship&searchResultView=LIST&pageNumber=0&sortBy=date — the page layout may have changed, or the page loads its list with JavaScript."
+    }
+   ]
+  },
+  {
    "id": "2026-11-27T13:51:51.981Z",
    "startedAt": "2026-11-27T13:51:51.981Z",
    "finishedAt": "2026-11-27T13:57:05.174Z",

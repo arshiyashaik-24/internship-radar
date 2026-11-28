@@ -1,6 +1,52 @@
 {
  "events": [
   {
+   "at": "2026-11-28T12:59:12.811Z",
+   "type": "closed",
+   "id": "page-tno:0432e5f5",
+   "sourceId": "page-tno",
+   "field": "status",
+   "from": "open",
+   "to": "closed",
+   "evidence": "https://www.tno.nl/en/careers/vacancies/2026/09/internship-oxygen-activation-second/",
+   "reason": "The application system reports the posting no longer exists"
+  },
+  {
+   "at": "2026-11-28T12:59:12.811Z",
+   "type": "deadline_passed",
+   "id": "wd-philips:594948",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "deadline_passed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship-Media---Influencer-Marketing-Personal-Health-BNL_594948"
+  },
+  {
+   "at": "2026-11-28T12:59:12.811Z",
+   "type": "deadline_passed",
+   "id": "wd-philips:594588",
+   "sourceId": "wd-philips",
+   "field": "status",
+   "from": "open",
+   "to": "deadline_passed",
+   "evidence": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Head-of-Research_594588-2"
+  },
+  {
+   "at": "2026-11-28T12:59:12.811Z",
+   "type": "source_failed",
+   "sourceId": "wd-thermofisher",
+   "reason": "HTTP 429 Too Many Requests"
+  },
+  {
+   "at": "2026-11-28T12:59:12.811Z",
+   "type": "programme_status",
+   "programmeId": "tno-internships",
+   "field": "status",
+   "from": "OPEN NOW",
+   "to": "CLOSED",
+   "evidence": "https://www.tno.nl/en/careers/graduates/"
+  },
+  {
    "at": "2026-11-27T13:51:51.981Z",
    "type": "new",
    "id": "wd-thermofisher:R-01374133",
